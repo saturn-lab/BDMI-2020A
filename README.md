@@ -1,10 +1,10 @@
-# BDMI-2020Spring
+# BDMI-2020 Autumn
 
 ## 教学计划 
 
 **每周教学总安排：**
 
-[总体教学安排](Schedule-BDMI-2020S.md)
+[总体教学安排](Schedule-2020A.md)
 
 
 ## 教师与助教
@@ -18,12 +18,13 @@ TAs: Rui Xie, [Shiyu Huang](https://huangshiyu13.github.io/)
 
 - [Computing](Computing)/ Python-算法-数据管理-机器学习材料 
 - [Logistics](Logistics)/ 签到与团队建设
-- [Part1-Schedule](Part1-Schedule)/WWn/  前9周教学安排
-- [Part2-Weeks](Part2-Weeks)/WWn/ 后9周教学安排，第n次课的课件和参考代码
+- [Part1-Schedule](Part1)/WWn/  前9周教学安排
+- [Part2-Schedule](Part2)/WWn/ 后9周教学安排，第n次课的课件和参考代码
 - [Course-Projects](Course-Projects)/ 课程实践任务
 - [Readings](Readings)/ 课程课外阅读的论文材料
-- [Study-Memo](Study-Memo)/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
-- [Memo-Summary](Memo-Summary)/ 同学们的课程小结-汇总提纲
+- [Memos]
+--[Study-Memo](Study-Memo)/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
+-- [Memo-Summary](Memo-Summary)/ 同学们的课程小结-汇总提纲
 
 ### 语言环境要求：
 
