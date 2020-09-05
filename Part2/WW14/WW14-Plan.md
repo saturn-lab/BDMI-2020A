@@ -1,4 +1,4 @@
-2020-05-20
+2020-12-15
 
 Bring Your Laptop and smart phone  to Class. 
 
