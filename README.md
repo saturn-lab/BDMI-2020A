@@ -11,7 +11,7 @@
 
 Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、Min Guo 
 
-TAs: Rui Xie, [Shiyu Huang](https://huangshiyu13.github.io/)
+TAs: Yu Zheng, Xu Wang
 
 
 ## 目录结构
