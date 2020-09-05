@@ -1,0 +1,14 @@
+[第一堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day1.md)<br>
+[第二堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day2.md)<br>
+[第三堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day3.md)<br>
+[第四堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day4.md)<br>
+[第五堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day5.md)<br>
+[第六堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day6.md)<br>
+[第七堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day7.md)<br>
+[第八堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day8.md)<br>
+[第九堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day9.md)<br>
+[第十堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day10.md)<br>
+[第十一堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day11.md)<br>
+[第十二堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day12.md)<br>
+[第十三堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day13.md)<br>
+[第十四堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day14.md)<br>
