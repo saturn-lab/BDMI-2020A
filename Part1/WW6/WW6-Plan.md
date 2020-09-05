@@ -1,4 +1,4 @@
-2020-03-25
+2020-10-20
 
 Note: Bring Your Laptop  and Smart Phone to Class. 
 
