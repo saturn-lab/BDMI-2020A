@@ -57,7 +57,9 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1      | PI代码的验收     |  实验   |     CZ/GM/ZY/WX     |    腾会会议室开启等候室，排队验收     |
-|   2      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)    |  实践    |     CZ&TAs     |   最迟至9月22日下午1点      |
+|   2      | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至9月22日下午1点      |
+|   3      | 小结目录 更新 [Memo-Summary](../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至9月22日下午1点      |
+
 
 
 大家注意：勿上传``有版权``的课程参考资料。
