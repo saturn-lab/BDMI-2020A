@@ -22,15 +22,15 @@ TAs: Yu Zheng, Xu Wang
 - [Part2-Schedule](Part2)/WWn/ 后9周教学安排，第n次课的课件和参考代码
 - [Course-Projects](Course-Projects)/ 课程实践任务
 - [Readings](Readings)/ 课程课外阅读的论文材料
-- [Memos]
---[Study-Memo](Study-Memo)/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
--- [Memo-Summary](Memo-Summary)/ 同学们的课程小结-汇总提纲
+- [Memos](Memos)
+- - [Study-Memo](Study-Memo)/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
+- - [Memo-Summary](Memo-Summary)/ 同学们的课程小结-汇总提纲
 
 ### 语言环境要求：
 
 - Python3, Jupyter Notebook (Visual Studio Code)
 - Git(Github), Markdown
-- SQL, Tensorflow, Haskell
+- SQL, Tensorflow
 
 
 ## 申请使用GPU
