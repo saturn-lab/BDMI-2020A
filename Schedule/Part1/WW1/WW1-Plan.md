@@ -37,8 +37,8 @@ Bring Your Laptop to Class.
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1       | Python编程语言     |  讲课    |    CZ    |          |
 |   2       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |   WX    |   推荐用官网安装python，编辑器选 VS Code/Sublime/Notepad++     |
-|   3       | Python 计算Pi([课件](https://github.com/saturn-lab/BDMI-2020S/blob/master/Part1/WW1/lectures/%E5%9C%86%E5%91%A8%E7%8E%87%E8%AE%A1%E7%AE%97.pdf) )([notebook](https://github.com/saturn-lab/BDMI-2020S/blob/master/Computing/Python3/PI_Python/calculate_pi.ipynb))     |  讲课    |     CZ     |         |
-|   4       | Python练习1  ``cal_pi.py``    |  实践    |     CZ&TAs     |    [1_Project](../../Course-Projects/1_Project)     |
+|   3       | Python 计算Pi([课件](https://github.com/saturn-lab/BDMI-2020S/blob/master/Part1/WW1/lectures/%E5%9C%86%E5%91%A8%E7%8E%87%E8%AE%A1%E7%AE%97.pdf) )([notebook](https://github.com/saturn-lab/BDMI-2020S/blob/master/Computing/Python3/PI_Python/calculate_pi.ipynb))     |  讲课    |     CZ/GM     |         |
+|   4       | Python练习1  ``cal_pi.py``    |  泰勒展开 实践    |     CZ&TAs     |    [1_Project](../../Course-Projects/1_Project)     |
 
 
 
