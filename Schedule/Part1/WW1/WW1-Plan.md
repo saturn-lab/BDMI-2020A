@@ -18,7 +18,7 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       | Markdown语法介绍，安装markdown编辑器  |  讲课    |    TAs     | 下载安装typora软件    |
+|   1       | Markdown语法介绍，安装markdown编辑器  |  讲课    |   WX     | 下载安装typora软件    |
 |   2       | markdown撰写个人自我介绍 ``Assigned-Number.md``  |  讲课    |     CZ/ZY     |   ``Assigned-Number.md``      |
 |   3       | markdown输入数学公式  |  讲课    |     CZ/ZY     |   [0_Project](../../Course-Projects/0_Project)      |
 
@@ -26,8 +26,8 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       | Git语法简介、Git操作     |  讲课    |    TAs     |  下载git-gui工具  |
-|   2       | Github注册/安装GitBash/   |  实践    |    TAs     |    ZY/WX    |
+|   1       | Git语法简介、Git操作     |  讲课    |    ZY     |  下载git-gui工具  |
+|   2       | Github注册/安装GitBash/   |  实践    |    TAs     |    ZY/    |
 |   3       | Github fork/ Git Clone本项目     |  实践    |    TAs     |        |
 |   4       | Github 更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |     |
 
@@ -35,9 +35,9 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       | Python编程语言     |  讲课    |    CZ    |    VS code/Sublime/Notepad++      |
-|   2       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ&TAs    |   推荐用官网安装python     |
-|   3       | Python 计算Pi([课件](https://github.com/saturn-lab/BDMI-2020S/blob/master/Part1/WW1/lectures/%E5%9C%86%E5%91%A8%E7%8E%87%E8%AE%A1%E7%AE%97.pdf) )([notebook](https://github.com/saturn-lab/BDMI-2020S/blob/master/Computing/Python3/PI_Python/calculate_pi.ipynb))     |  讲课    |     Zheng     |         |
+|   1       | Python编程语言     |  讲课    |    CZ    |          |
+|   2       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |   WX    |   推荐用官网安装python，编辑器选 VS Code/Sublime/Notepad++     |
+|   3       | Python 计算Pi([课件](https://github.com/saturn-lab/BDMI-2020S/blob/master/Part1/WW1/lectures/%E5%9C%86%E5%91%A8%E7%8E%87%E8%AE%A1%E7%AE%97.pdf) )([notebook](https://github.com/saturn-lab/BDMI-2020S/blob/master/Computing/Python3/PI_Python/calculate_pi.ipynb))     |  讲课    |     CZ     |         |
 |   4       | Python练习1  ``cal_pi.py``    |  实践    |     CZ&TAs     |    [1_Project](../../Course-Projects/1_Project)     |
 
 
