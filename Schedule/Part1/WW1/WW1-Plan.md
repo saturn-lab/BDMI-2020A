@@ -29,7 +29,7 @@ Bring Your Laptop to Class.
 |   1       | Git语法简介、Git操作     |  讲课    |    ZY     |  下载git-gui工具  |
 |   2       | Github注册/安装GitBash/   |  实践    |    TAs     |    ZY/    |
 |   3       | Github fork/ Git Clone本项目     |  实践    |    TAs     |  上传Number.md，PR给课程项目      |
-|   4       | Github 更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |  目录Memos   |
+|   4       | Github 更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |  目录logistics   |
 
 
 
