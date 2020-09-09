@@ -26,7 +26,7 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       | Git语法简介、Git操作     |  讲课    |    TAs     |  下载gitgui工具  |
+|   1       | Git语法简介、Git操作     |  讲课    |    TAs     |  下载git-gui工具  |
 |   2       | Github注册/安装GitBash/   |  实践    |    TAs     |    ZY/WX    |
 |   3       | Github fork/ Git Clone本项目     |  实践    |    TAs     |        |
 |   4       | Github 更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |     |
