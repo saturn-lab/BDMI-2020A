@@ -32,7 +32,7 @@ Bring Your Laptop and smart phone  to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
 |   8       |  [postgresql安装](http://postgresql.org)   |   实践    |     WH     |   postgresql, 简称pg      |
-|   8       |  [greenplum安装](http://greenplum.org   |   实践    |     WH     |   greenplum, 简称gp      |
+|   8       |  [greenplum安装](http://greenplum.org)   |   实践    |     WH     |   greenplum, 简称gp      |
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
