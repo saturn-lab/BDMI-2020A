@@ -17,21 +17,21 @@ Bring Your Laptop to Class.
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
-|   1  |  排序算法：中值与选择（Median & Selection）      |  讲课    |     huang     |      |
+|   1  |  排序算法：中值与选择（Median & Selection）      |  讲课    |     CZ     |      |
 |   2  |  中值与选择实验[Median & Selection算法](../../Computing/Algorithm/cs161-2018/lecture4_median_selection.ipynb)  |  实践  |  TAs   |     |
 
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
-|   3  |  查找结构：2-3-4 Tree --> [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     CZ     |     |
+|   3  |  查找结构：2-3-4 Tree --> [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     WX     |     |
 
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
-|   4  |  查找结构：哈希表与哈希函数族，Hashing, Hashing!  |  讲课    |     Xie     |  
-|   5  |  [哈希表实验](../../ML-BD-Algo/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     Xie     |         |
+|   4  |  查找结构：哈希表与哈希函数族，Hashing, Hashing!  |  讲课    |     ZY     |  
+|   5  |  [哈希表实验](../../ML-BD-Algo/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     ZY     |         |
 
 
 
