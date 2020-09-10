@@ -4,7 +4,7 @@
 
 **每周教学总安排：**
 
-[总体教学安排](Schedule-2020A.md)
+[总体教学安排](Schedule/Schedule-2020A.md)
 
 
 ## 教师与助教
