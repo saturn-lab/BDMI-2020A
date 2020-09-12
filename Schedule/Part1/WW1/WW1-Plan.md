@@ -18,19 +18,19 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
+|   1       | Git语法简介、Git操作     |  讲课    |    ZY     |  下载git-gui工具  |
+|   2       | Github注册/安装GitBash/   |  实践    |    TAs     |    ZY/    |
+|   3       | Github fork/ Git Clone本项目     |  实践    |    TAs     |  上传Number.md，PR给课程项目      |
+|   4       | Github 更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |  目录logistics   |
+
+
+|时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1       | Markdown语法介绍，安装markdown编辑器  |  讲课    |   WX     | 下载安装typora软件    |
 |   2       | markdown撰写个人自我介绍 ``Assigned-Number.md``  |  讲课    |     CZ/ZY     |   ``Assigned-Number.md``      |
 |   3       | markdown输入数学公式  |  讲课    |     CZ/ZY     |   [0_Project](../../Course-Projects/0_Project)      |
 |   4       | 课程团建 |   练习    |            |          |
 
-
-
-|时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       | Git语法简介、Git操作     |  讲课    |    ZY     |  下载git-gui工具  |
-|   2       | Github注册/安装GitBash/   |  实践    |    TAs     |    ZY/    |
-|   3       | Github fork/ Git Clone本项目     |  实践    |    TAs     |  上传Number.md，PR给课程项目      |
-|   4       | Github 更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |  目录logistics   |
 
 
 
