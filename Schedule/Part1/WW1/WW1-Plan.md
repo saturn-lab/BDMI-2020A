@@ -29,7 +29,13 @@ Bring Your Laptop to Class.
 |   1       | Markdown语法介绍，安装markdown编辑器  |  讲课    |   WX     | 下载安装typora软件    |
 |   2       | markdown撰写个人自我介绍 ``Assigned-Number.md``  |  讲课    |     CZ/ZY     |   ``Assigned-Number.md``      |
 |   3       | markdown输入数学公式  |  讲课    |     CZ/ZY     |   [0_Project](../../Course-Projects/0_Project)      |
-|   4       | 课程团建 |   练习    |            |          |
+|   4       | [Math in Markdown](math-md.md) |   实践   |   TAs   |    想一想，做一做    |
+
+
+
+|时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
+|   5       | 课程团建 |   练习    |     CZ/GM/TAs        |     Optional     |
 
 
 
