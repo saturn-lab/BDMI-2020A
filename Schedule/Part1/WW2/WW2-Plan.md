@@ -23,7 +23,7 @@ Bring Your Laptop to Class.
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   7       | 排序算法（InsertionSort, MergeSort）       |  讲课    |     ZY     |         |
 |   8       | 插入与合并排序算法实验[sorting算法](../../ML-BD-Algo/cs161-2018/lecture2_sorting.ipynb)     |  实践    |     TAs     |        |
-|   9       | [课后作业1](../../Course-Projects/Course_Project_2/)    |  实验介绍与判题    |     huang     |    想一想，做一做     |
+|   9       | [课后作业1](../../Course-Projects/Course_Project_2/)    |  实验介绍与判题    |     ZY     |    想一想，做一做     |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
