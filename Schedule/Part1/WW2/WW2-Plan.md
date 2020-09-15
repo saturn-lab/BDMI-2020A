@@ -16,7 +16,8 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1       | [Python3语言基础](Python3-Basic.md) |  讲课    |     CZ     |    想一想，做一做      |
-
+|   2       | [Python-Numpy](Python-Nummpy.md)   |  讲课    |     CZ     |    想一想，做一做      |
+|   3       | [Python-Pandas](Python-Pandas.md) |  讲课    |     CZ     |    想一想，做一做      |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
@@ -39,3 +40,5 @@ Bring Your Laptop to Class.
 
 
 大家注意：勿上传``有版权``的课程参考资料。
+
+
