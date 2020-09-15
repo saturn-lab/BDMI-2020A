@@ -3,4 +3,4 @@
 |     | [陈震](About_Us/陈震-个人简介.md) | iCenter | 科学     |
 | 1   | [Adrian Stobbe](About_Us/adrian-2019400783.md)                                 | 交换学生    | 跳舞，学语言 |
 | 51 | [周金印](About_Us/51.md)                                 | 机械系   | 跑步 |
-| 69 | [胡炀丽](Logistics/Markdown-Git/69.md)                  |康奈尔建筑系|划水|
+| 69 | [胡炀丽](Logistics/Markdown-Git/69.md)                  |康奈尔建筑系|摸鱼|
