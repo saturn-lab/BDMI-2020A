@@ -6,7 +6,7 @@ BDMI 课程名单
 |   2   |    [2-intro](2.md)      |
 |   5   |    [5-intro](5.md)      |
 |   6   |    [6-intro](6.md)      |
-|   7   |    [7-intro](7.md)      |
+|   7   |    [7-intro](07.md)      |
 |   8   |    [8-intro](8.md)      |
 |   9   |    [9-intro](9.md)      |
 |   10   |    [10-intro](10.md)      |
@@ -60,3 +60,4 @@ BDMI 课程名单
 |   63   |    [63-intro](63.md)      |
 |   44   |    [44-intro](44.md)      |
 |   39   |    [39-intro](39.md)      |
+|   42   |    [42-intro](42.md)      |
