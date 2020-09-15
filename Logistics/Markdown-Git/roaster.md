@@ -10,6 +10,7 @@ BDMI 课程名单
 |   8   |    [8-intro](8.md)      |
 |   9   |    [9-intro](9.md)      |
 |   10   |    [10-intro](10.md)      |
+|   13   |  [13-intro](13.md)        |
 |   14   |    [14-intro](14.md)      |
 |   52   |    [52-intro](52.md)      |
 |   12   |    [12-intro](12.md)      |
