@@ -6,4 +6,5 @@
 | 69 | [胡炀丽](Logistics/Markdown-Git/69.md)                  |康奈尔建筑系|摸鱼|
 | 47 | [华振兴](Logistics/Markdown-Git/47.md)                  |物理系|划水|
 | 75 | [沈昱彤](Logistics/Markdown-Git/75.md)                  |交换学生|书法|
-| 33 | [雷磊](./Markdown-Git/33.md) | 电子系 | 游泳 
+| 33 | [雷磊](./Markdown-Git/33.md) | 电子系 | 游泳
+| 25 | [房昊天](./Markdown-Git/25.md) | 电子系 | 篮球
