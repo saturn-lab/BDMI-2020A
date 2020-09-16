@@ -8,3 +8,4 @@
 | 75 | [沈昱彤](Logistics/Markdown-Git/75.md)                  |交换学生|书法|
 | 33 | [雷磊](./Markdown-Git/33.md) | 电子系 | 游泳
 | 25 | [房昊天](./Markdown-Git/25.md) | 电子系 | 篮球
+| 44 | [许环宇](./Markdown-Git/44.md) | 建环 | 刷bili
