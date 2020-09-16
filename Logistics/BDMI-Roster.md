@@ -5,3 +5,4 @@
 | 51 | [周金印](About_Us/51.md)                                 | 机械系   | 跑步 |
 | 69 | [胡炀丽](Logistics/Markdown-Git/69.md)                  |康奈尔建筑系|摸鱼|
 | 47 | [华振兴](Logistics/Markdown-Git/47.md)                  |物理系|划水|
+| 75 | [沈昱彤](Logistics/Markdown-Git/75.md)                  |交换学生|书法| 
