@@ -10,7 +10,7 @@
 | 25 | [房昊天](./Markdown-Git/25.md) |电子系|篮球|
 | 44 | [许环宇](./Markdown-Git/44.md) |建环|刷bili|
 | 55 | [叶召城](./Markdown-Git/55.md) |电子系|打篮球|
-
+| 56 | [姜一洲](./Markdown-Git/56.md) |电子系|打篮球玩音乐|
 
 
 
