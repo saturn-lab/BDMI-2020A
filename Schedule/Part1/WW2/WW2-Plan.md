@@ -10,7 +10,14 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1       | [回顾上节课](../WW1/WW1-Plan.md)，介绍本节课内容     |  讲课    |     CZ/GM     |         |
-|   2       | 课堂小游戏     |  团建    |     CZ&TAs     |  认一认       |
+
+|时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
+|   1       | Python编程语言     |  讲课    |    CZ    |          |
+|   2       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |   WX    |   推荐用官网安装python，编辑器选 VS Code/Sublime/Notepad++     |
+|   3       | Python计算Pi([课件](../WW1/lectures/%E5%9C%86%E5%91%A8%E7%8E%87%E8%AE%A1%E7%AE%97.pdf) )([notebook](../../../Computing/Python3/PI_Python/calculate_pi.ipynb))     |  讲课    |     CZ/GM     |         |
+|   4       | Python练习1  ``cal_pi.py``    |  泰勒展开 实践    |     CZ&TAs     |    [1_Project](../../../Course-Projects/1_Project)     |
+
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
@@ -18,6 +25,13 @@ Bring Your Laptop to Class.
 |   1       | [Python3语言基础](Python3-Basic.md) |  讲课    |     CZ     |    想一想，做一做      |
 |   2       | [Python-Numpy](Python-Nummpy.md)   |  讲课    |     CZ     |    想一想，做一做      |
 |   3       | [Python-Pandas](Python-Pandas.md) |  讲课    |     CZ     |    想一想，做一做      |
+
+
+
+|时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
+|   1      | 算法思想 ， 两大数相乘   |  讲课    |     CZ     |         |
+|   2      | Python代码描述   |  讲课    |     TAs     |         |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
@@ -35,8 +49,8 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1      | 插入排序与合并排序代码的验收     |  实验   |     CZ/GM/ZY/WX     |    腾会会议室开启等候室，排队验收     |
-|   2      | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至9月29日下午1点      |
-|   3      | 小结目录 更新 [Memo-Summary](../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至9月29日下午1点      |
+|   2      | 学习小结 上交至[Study-Memo](../../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至9月29日下午1点      |
+|   3      | 小结目录 更新 [Memo-Summary](../../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至9月29日下午1点      |
 
 
 大家注意：勿上传``有版权``的课程参考资料。
