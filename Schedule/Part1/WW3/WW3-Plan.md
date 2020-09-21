@@ -3,13 +3,19 @@
 Bring Your Laptop to Class. 
 
 
-
-# Plan One
-
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   0       | 课程签到     |  logistics   |        ZY     |   线上线下上课，均需要先签到雨课堂     |
+
+
+|时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1       | 回顾上节课[WW2](../WW2/WW2-Plan.md), 介绍本节课内容     |  讲课    |     CZ     |         |
+
+
+|时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
+|   1       | [Python3语言基础](Python3-Basic.md) |  讲课    |     CZ     |    想一想，做一做      |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
@@ -31,13 +37,11 @@ Bring Your Laptop to Class.
 |   4       | Binary Search Tree -->  [2-3-4 Tree](2-3-4-Tree.pdf)    |  实践    |     TAs     |  (Base of Data System)     |
 
 
-
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   5       | 2-3-4 Tree-->[Red-Black-Tree(Sorted)](https://www.cs.princeton.edu/~rs/talks/LLRB/)    |  讲课    |     CZ     |         |
 |   6       |  Red-Black Tree, LLRB(Left-leaning Red-Black Tree), [B+ tree](../../Computing/Algorithm/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     CZ     |    |
 |   7       | [Red-Black Tree实验](../../Computing/Algorithm/RBTrees.ipynb)    |  实践    |     CZ     |    |
-
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
@@ -48,8 +52,8 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1      | 实验代码的验收     |  实验   |     CZ/GM/ZY/WX     |    腾会会议室开启等候室，排队验收     |
-|   2      | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至9月22日下午1点      |
-|   3      | 小结目录 更新 [Memo-Summary](../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至9月22日下午1点      |
+|   2      | 学习小结 上交至[Study-Memo](../../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至9月22日下午1点      |
+|   3      | 小结目录 更新 [Memo-Summary](../../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至9月22日下午1点      |
 
 
 大家注意：勿上传``有版权``的课程参考资料。
