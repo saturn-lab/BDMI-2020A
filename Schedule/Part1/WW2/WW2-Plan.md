@@ -14,24 +14,24 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       | Python语言简介     |  讲课    |    CZ    |          |
-|   2       | Python语言小练习   |  操作    |    CZ    |  Jupyter-lab 或者 jupyter notebook  |
+|   2       | Python语言简介     |  讲课    |    CZ    |          |
+|   3       | Python语言小练习   |  操作    |    CZ    |  Jupyter-lab 或者 jupyter notebook  |
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   2       | Python计算Pi([课件](../WW1/lectures/%E5%9C%86%E5%91%A8%E7%8E%87%E8%AE%A1%E7%AE%97.pdf) )      |  讲课    |     GM     |         |
-|   2       | (PI[notebook](../../../Computing/Python3/PI_Python/calculate_pi.ipynb))     |  体验    |     GM     |         |
+|   4       | Python计算Pi([课件](../WW1/lectures/%E5%9C%86%E5%91%A8%E7%8E%87%E8%AE%A1%E7%AE%97.pdf) )      |  讲课    |     GM     |         |
+|   5       | (PI[notebook](../../../Computing/Python3/PI_Python/calculate_pi.ipynb))     |  体验    |     GM     |         |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   3       | 练习1  ``cal_pi.py``    |  泰勒展开 实践    |     TAs     |    [1_Project](../../../Course-Projects/1_Project)     |
+|   6       | 练习1  ``cal_pi.py``    |  泰勒展开 实践    |     TAs     |    [1_Project](../../../Course-Projects/1_Project)     |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       |  Matplotlib画图   |  讲课    |     ZY     |           |
-|   2       |  小练习：  |   实践   |     ZY     |    想一想，做一做      |
+|   7       |  Matplotlib画图   |  讲课    |     ZY     |           |
+|   8       |  小练习：  |   实践   |     ZY     |    想一想，做一做      |
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
@@ -39,14 +39,14 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1      | 算法思想  |  讲课    |     WX     |         |
-|   1      | 一元二次方程方法  |   实践    |     WX     |         |
+|   9      | 算法思想  |  讲课    |     WX     |         |
+|   10      | 一元二次方程方法  |   实践    |     WX     |         |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1      | 两大数相乘   |  讲课    |     CZ     |         |
-|   2      | Python代码描述   |  讲课    |     TAs     |         |
+|   11      | 两大数相乘   |  讲课    |     CZ     |         |
+|   12      | Python代码描述   |  讲课    |     TAs     |         |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
