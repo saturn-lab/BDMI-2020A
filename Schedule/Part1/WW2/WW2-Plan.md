@@ -37,7 +37,7 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   9       |  Matplotlib画图   |  讲课    |     ZY     |           |
+|   9       |  Matplotlib画图[notebook](../../../Computing/Python3/matplotlib_python/plot.ipynb)   |  讲课    |     ZY     |           |
 |   10       |  小练习：  |   实践   |     ZY     |    想一想，做一做      |
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
