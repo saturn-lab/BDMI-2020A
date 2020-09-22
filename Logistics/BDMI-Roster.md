@@ -11,10 +11,8 @@
 | 44 | [许环宇](./Markdown-Git/44.md) |建环|刷bili|
 | 55 | [叶召城](./Markdown-Git/55.md) |电子系|打篮球|
 | 56 | [姜一洲](./Markdown-Git/56.md) |电子系|打篮球玩音乐|
-<<<<<<< HEAD
+| 52 | [时其然](./Markdown-Git/52.md) |精仪系|爵士舞|
 | 70 | [谢禹川](./Markdown-Git/70.md) |元培|骑行|
-
-=======
 | 40 | [李新宇](./Markdown-Git/40.md) |经管学院|打网球|
 | 31 | [朱江彤](./Markdown-Git/31.md) |车辆学院|打篮球|
 >>>>>>> 56f0dc22ed98e1a5c7631e235560b2f6faddad17
