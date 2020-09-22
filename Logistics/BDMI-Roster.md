@@ -11,6 +11,7 @@
 | 44 | [许环宇](./Markdown-Git/44.md) |建环|刷bili|
 | 55 | [叶召城](./Markdown-Git/55.md) |电子系|打篮球|
 | 56 | [姜一洲](./Markdown-Git/56.md) |电子系|打篮球玩音乐|
+| 52 | [时其然](./Markdown-Git/52.md) |精仪系|爵士舞|
 <<<<<<< HEAD
 | 70 | [谢禹川](./Markdown-Git/70.md) |元培|骑行|
 
