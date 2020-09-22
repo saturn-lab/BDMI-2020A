@@ -1,2 +1,1 @@
-- [第1周小结](../Study-Memo/66-Day0.md) 
-- 
+- [第1周小结](../Study-Memo/66-Day1.md)
