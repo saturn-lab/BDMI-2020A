@@ -20,12 +20,12 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   3       | Python File IO      |  实践    |    WX    |          |
+|   3       | [Python File IO](../../../Computing/Python3/python3-basic/file_io.ipynb)     |  实践    |    WX    |          |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   4       | Modules and packages    |  实践    |    WX    |          |
+|   4       | [Modules and packages](../../../Computing/Python3/python3-basic/modules_and_packages.ipynb)    |  实践    |    WX    |          |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
