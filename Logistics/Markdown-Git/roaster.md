@@ -2,16 +2,19 @@ BDMI 课程名单
 
 | ID   | 自我介绍 |
 | ---- | -------- |
-|   1   |    [1-intro](1.md)      |
+|   1   |    [1-intro](01.md)      |
 |   2   |    [2-intro](2.md)      |
+|   3   |    [3-intro](3.md)      |
 |   5   |    [5-intro](5.md)      |
 |   6   |    [6-intro](6.md)      |
-|   7   |    [7-intro](7.md)      |
+|   7   |    [7-intro](07.md)      |
 |   8   |    [8-intro](8.md)      |
 |   9   |    [9-intro](9.md)      |
 |   10   |    [10-intro](10.md)      |
+|   11   |    [11-intro](11.md)      |
 |   13   |  [13-intro](13.md)        |
 |   14   |    [14-intro](14.md)      |
+|   18   |    [18-intro](18.md)      |
 |   52   |    [52-intro](52.md)      |
 |   12   |    [12-intro](12.md)      |
 |   20   |    [20-intro](20.md)      |
@@ -19,6 +22,7 @@ BDMI 课程名单
 |   22   |    [22-intro](22.md)      |
 |   26   |    [26-intro](26.md)      |
 |   25   |    [25-intro](25.md)      |
+|   30   |    [30-intro](30.md)      |
 |   31   |    [31-intro](31.md)      |
 |   32   |    [32-intro](32.md)      |
 |   33   |    [33-intro](33.md)      |
@@ -52,3 +56,19 @@ BDMI 课程名单
 |   37   |    [37-intro](37.md)      |
 |   53   |    [53-intro](53.md)      |
 |   68   |    [68-intro](68.md)      |
+|60|[60-intro](60.md)|
+|   52   |    [52-intro](52.md)      |
+|   19   |    [19-intro](19.md)      |
+|   74   |    [74-intro](74.md)      |
+|   61   |    [61-intro](61.md)      |
+|   63   |    [63-intro](63.md)      |
+|   44   |    [44-intro](44.md)      |
+|   39   |    [39-intro](39.md)      |
+|   42   |    [42-intro](42.md)      |
+|   47   |    [47-intro](47.md)      |
+|   75   |    [75-intro](75.md)      |
+|   59   |    [59-intro](59.md)      |
+|   57   |    [57-intro](57.md)      |
+| 27 |    [27-intro](27.md)|
+|   79   |    [79-intro](79.md)      |
+|   83   |    [83-intro](83.md)      |
