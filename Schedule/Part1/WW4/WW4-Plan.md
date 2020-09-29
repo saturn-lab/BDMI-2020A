@@ -13,12 +13,16 @@ Bring Your Laptop to Class.
 | :--- |   :----:    |   :----:    |    :----:    |       ---: |
 |   0  |  [回顾上节课](../WW3/WW3-Plan.md)  |  讲课    |     CZ     |      | 
 
+|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
+|   3       | [QuickSort & BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     CZ/ZY     |         |
+|   4       | [QuickSort](../../../Computing/Algorithm/cs161-2018/lecture5_quicksort.ipynb) 和[BucketSort](../../../Computing/Algorithm/cs161-2018/lecture6_bucketSort.ipynb)实验  |  实践    |     TAs     |         |
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
 |   1  |  排序算法：中值与选择（Median & Selection）      |  讲课    |     CZ     |      |
-|   2  |  中值与选择实验[Median & Selection算法](../../Computing/Algorithm/cs161-2018/lecture4_median_selection.ipynb)  |  实践  |  TAs   |     |
+|   2  |  中值与选择实验[Median & Selection算法](../../../Computing/Algorithm/cs161-2018/lecture4_median_selection.ipynb)  |  实践  |  TAs   |     |
 
 
 
