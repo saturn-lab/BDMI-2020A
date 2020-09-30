@@ -15,7 +15,7 @@ Bring Your Laptop to Class.
 
 |时间段   |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
-|   1     | [QuickSort & BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     CZ     |         |
+|   1     | [QuickSort & BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     CZ     |    重点是 快排     |
 |   2     | [QuickSort](../../../Computing/Algorithm/cs161-2018/lecture5_quicksort.ipynb) 和[BucketSort](../../../Computing/Algorithm/cs161-2018/lecture6_bucketSort.ipynb)实验  |  实践   |     TAs     |         |
 
 
@@ -28,7 +28,11 @@ Bring Your Laptop to Class.
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
-|   3  |  查找结构：2-3-4 Tree --> [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     WX     |     |
+|   3  |  查找结构：二元查找树  |  讲课    |     WX     |     |
+
+|时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
+| :--- | :----: | :----: | :----:  |  ---: |
+|   3  |  2-3-4 Tree --> [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     WX     |  Optional   |
 
 
 
