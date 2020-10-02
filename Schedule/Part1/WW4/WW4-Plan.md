@@ -2,11 +2,11 @@
 
 Bring Your Laptop to Class. 
 
+本节课建议安装VS Code
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---:   |
 |   0       | 课程签到     |  logistics   |     ZY     |   线上线下上课，均需要先签到雨课堂     |
-
 
 
 |时间段 |  内容    | 讲课 / 实践     |  分工  |备注       |
@@ -15,8 +15,13 @@ Bring Your Laptop to Class.
 
 |时间段   |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
-|   1     | [QuickSort & BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     CZ     |    重点是 快排     |
-|   2     | [QuickSort](../../../Computing/Algorithm/cs161-2018/lecture5_quicksort.ipynb) 和[BucketSort](../../../Computing/Algorithm/cs161-2018/lecture6_bucketSort.ipynb)实验  |  实践   |     TAs     |         |
+|   1     | [QuickSort](./Sorting%20Algorithms.pdf)      |  讲课    |     CZ     |    重点是 快排     |
+|   2     | [QuickSort](../../../Computing/Algorithm/cs161-2018/lecture5_quicksort.ipynb) 实验   |  实践   |     TAs     |         |
+
+|时间段   |  内容    | 讲课 / 实践     |  分工  |备注       |
+| :---    |   :----:    |   :----:    |    :----:    |       ---: |
+|   1     | [BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     CZ     |    重点是 快排     |
+|   2     | [BucketSort](../../../Computing/Algorithm/cs161-2018/lecture6_bucketSort.ipynb)实验  |  实践   |     TAs     |         |
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
@@ -28,11 +33,13 @@ Bring Your Laptop to Class.
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
-|   3  |  查找结构：二元查找树  |  讲课    |     WX     |     |
+|   1  |  查找结构：二元查找树  |  讲课    |     WX     |     |
+|   2  |  二元查找树练习实验  |  讲课    |     WX     |     |
+
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
-|   3  |  2-3-4 Tree --> [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     WX     |  Optional   |
+|   3  |  2-3-4 Tree --> [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     CZ     |  Optional   |
 
 
 
@@ -55,13 +62,6 @@ Bring Your Laptop to Class.
 |   2      | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至10月13日下午1点      |
 |   3      | 小结目录 更新 [Memo-Summary](../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至10月13日下午1点      |
 
-
-
-Optional
-
-|时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
-| :--- | :----: | :----: | :----:  |  ---: |
-|  0   |        |  讲课    |     CZ     |         |
 
 
 大家注意：勿上传``有版权``的课程参考资料。
