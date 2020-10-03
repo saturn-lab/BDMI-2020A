@@ -15,32 +15,19 @@ Bring Your Laptop to Class.
 
 |时间段   |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
-|   1     | [QuickSort](./Sorting%20Algorithms.pdf)      |  讲课    |     CZ     |    重点是 快排     |
+|   1     | [QuickSort](./Sorting%20Algorithms.pdf)      |  讲课    |     CZ     |    算法     |
 |   2     | [QuickSort](../../../Computing/Algorithm/cs161-2018/lecture5_quicksort.ipynb) 实验   |  实践   |     TAs     |    想一想，练一练       |
 
 |时间段   |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
-|   1     | [BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     CZ     |        |
+|   1     | [BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     ZY     |   算法     |
 |   2     | [BucketSort](../../../Computing/Algorithm/cs161-2018/lecture6_bucketSort.ipynb)实验  |  实践   |     TAs     |    想一想，练一练       |
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
-|   1  |  排序算法：中值与选择（Median & Selection）      |  讲课    |     ZY     |   optional   |
-|   2  |  中值与选择实验[Median & Selection算法](../../../Computing/Algorithm/cs161-2018/lecture4_median_selection.ipynb)  |  实践  |  TAs   |     |
-
-
-
-|时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
-| :--- | :----: | :----: | :----:  |  ---: |
-|   1  |  查找结构：二元查找树  |  讲课    |     WX     |     |
+|   1  |  查找结构：二元查找树  |  讲课    |     WX     |  数据结构   |
 |   2  |  二元查找树练习实验  |  讲课    |     WX     |   想一想，练一练  |
-
-
-|时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
-| :--- | :----: | :----: | :----:  |  ---: |
-|   3  |  2-3-4 Tree --> [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     CZ     |  Optional   |
-
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
@@ -49,11 +36,9 @@ Bring Your Laptop to Class.
 |   5  |  [哈希表实验](../../ML-BD-Algo/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     ZY     |    想一想，练一练       |
 
 
-
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
 |   6  | 总结本节课，展望[下节课](../WW5/WW5-Plan.md)      |  讲课    |     CZ     |         |
-
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
@@ -62,6 +47,8 @@ Bring Your Laptop to Class.
 |   2      | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至10月13日下午1点      |
 |   3      | 小结目录 更新 [Memo-Summary](../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至10月13日下午1点      |
 
+## 后备材料
 
+[WW4-Option](WW4-Option.md)
 
 大家注意：勿上传``有版权``的课程参考资料。
