@@ -2,7 +2,7 @@
 
 Note: Bring Your Laptop  and Smart Phone to Class. 
 
-# Local Schedule
+## 教学安排
 
 |时间段  |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----   |   :----:    |    :----:    | ---: |
