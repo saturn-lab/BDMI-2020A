@@ -18,22 +18,29 @@ Bring Your Laptop to Class.
 |   1     | [QuickSort](./Sorting%20Algorithms.pdf)      |  讲课    |     CZ     |    算法     |
 |   2     | [QuickSort](../../../Computing/Algorithm/cs161-2018/lecture5_quicksort.ipynb) 实验   |  实践   |     TAs     |    想一想，练一练       |
 
+
 |时间段   |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
 |   1     | [BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     ZY     |   算法     |
 |   2     | [BucketSort](../../../Computing/Algorithm/cs161-2018/lecture6_bucketSort.ipynb)实验  |  实践   |     TAs     |    想一想，练一练       |
 
 
+|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
+|   1       | 基本数据结构: Unsorted Linked List --> Sorted Linked List |  讲课  |     CZ  |   data structure      |
+|   1       | 基本数据结构: Unsorted [Linked List](../../../Computing/Algorithm/linked-list-test.ipynb) --> Sorted Linked List |  讲课、实践   |     CZ  |   想一想，做一做      | 
+
+
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
 |   1  |  查找结构：二元查找树  |  讲课    |     WX     |  数据结构   |
-|   2  |  二元查找树练习实验  |  讲课    |     WX     |   想一想，练一练  |
+|   2  |  二元查找树练习：[BST实验](../../../Computing/Algorithm/BST.ipynb)    |  讲课    |     WX     |   想一想，练一练  |
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
 |   4  |  查找结构：哈希表与哈希函数族，Hashing, Hashing!  |  讲课    |     GM     |  
-|   5  |  [哈希表实验](../../ML-BD-Algo/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     ZY     |    想一想，练一练       |
+|   5  |  [哈希表实验](../../../Computing/Algorithm/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     ZY     |    想一想，练一练       |
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
