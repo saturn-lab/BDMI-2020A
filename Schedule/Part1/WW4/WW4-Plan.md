@@ -28,7 +28,7 @@ Bring Your Laptop to Class.
 |时间段  |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---  |   :----:    |   :----:    |    :----:    |       ---: |
 |   1   | 基本数据结构  |  讲课  |     CZ  |   data structure      |
-|   1   | 基本数据结构: [Linked List](../../../Computing/Algorithm/linked-list-test.ipynb)   |  讲课、实践   |     CZ  |   想一想，做一做      | 
+|   1   | 基本数据结构: [Linked List](../../../Computing/Algorithm/linked-list.ipynb)   |  讲课、实践   |     CZ  |   想一想，做一做      | 
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
