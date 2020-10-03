@@ -54,7 +54,7 @@ Bring Your Laptop to Class.
 |   2      | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至10月13日下午1点      |
 |   3      | 小结目录 更新 [Memo-Summary](../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至10月13日下午1点      |
 
-## 后备材料
+## 补充材料
 
 [WW4-Option](WW4-Option.md)
 
