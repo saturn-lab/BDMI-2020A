@@ -8,6 +8,6 @@
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
-|   3  |  2-3-4 Tree --> [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     CZ     |  Optional   |
+|   3  |  [2-3-4 Tree]() --> [B+ tree](../../../Computing/DataSystem/cs245-2017/CS245-Notes42-B-trees.pdf)    |  讲课    |     CZ     |  Optional   |
 
 
