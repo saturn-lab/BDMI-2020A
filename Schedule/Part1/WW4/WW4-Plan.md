@@ -25,10 +25,10 @@ Bring Your Laptop to Class.
 |   2     | [BucketSort](../../../Computing/Algorithm/cs161-2018/lecture6_bucketSort.ipynb)实验  |  实践   |     TAs     |    想一想，练一练       |
 
 
-|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       | 基本数据结构: Unsorted Linked List --> Sorted Linked List |  讲课  |     CZ  |   data structure      |
-|   1       | 基本数据结构: Unsorted [Linked List](../../../Computing/Algorithm/linked-list-test.ipynb) --> Sorted Linked List |  讲课、实践   |     CZ  |   想一想，做一做      | 
+|时间段  |  内容    | 讲课 / 实践     |  分工  |备注       |
+| :---  |   :----:    |   :----:    |    :----:    |       ---: |
+|   1   | 基本数据结构  |  讲课  |     CZ  |   data structure      |
+|   1   | 基本数据结构: [Linked List](../../../Computing/Algorithm/linked-list-test.ipynb)   |  讲课、实践   |     CZ  |   想一想，做一做      | 
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
