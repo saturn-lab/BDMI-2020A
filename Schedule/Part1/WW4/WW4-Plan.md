@@ -22,7 +22,7 @@ Bring Your Laptop to Class.
 |时间段   |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
 |   1     | [BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     ZY     |   算法     |
-|   2     | [BucketSort](../../../Computing/Algorithm/cs161-2018/lecture6_bucketSort.ipynb)实验  |  实践   |     TAs     |    想一想，练一练       |
+|   2     | [BucketSort](../../../Computing/Algorithm/Sorting_Algorithms_Python/bucket_sort_hw.ipynb)实验  |  实践   |     TAs     |    想一想，练一练       |
 
 
 |时间段  |  内容    | 讲课 / 实践     |  分工  |备注       |
