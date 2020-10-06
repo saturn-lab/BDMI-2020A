@@ -1,0 +1,171 @@
+#　Day4
+
+1 快速排序-递归
+
+``` python
+#O(nlogn~n^2)
+import random
+
+def QuickSort(A):
+    if len(A)<=1:
+        return A
+    L=[]
+    R=[]
+    p=random.choice(range(len(A)))
+    E=[A[p]]
+    for i in range(len(A)):
+        if i==p:
+            continue
+        if A[i]<A[p]:
+            L.append(A[i])
+        else:
+            R.append(A[i])
+    return QuickSort(L)+E+QuickSort(R)
+
+list=[6,4,2,9,3,8,5,1,7]
+print(QuickSort(list))
+```
+
+2 桶排序，基排序bucket，radix
+
+``` python
+#O(n),但是需要知道数据范围
+def bucket_sort(A, min_value, max_value):
+    buckets = [[] for _ in range(min_value, max_value+1)]
+    for x in A:
+        buckets[x].append(x)
+    sorted_arr = []
+    for bucket in buckets:
+        sorted_arr += bucket
+    return sorted_arr
+
+arr = [5,1,2,7,3,9,4,0,6,8]
+sorted_arr = bucket_sort(arr, 0, 9)
+print(sorted_arr)
+```
+
+``` python
+#基排序
+def getDigits(x, base):#求该数字各阶层的字数，也就是取余1000-》1,0,0,0
+    digits = []
+    while x > 0:
+        digits.append( x % base )
+        x = (x / base).__trunc__()
+    return digits
+        
+
+class myInt:
+    def __init__(self,x, base=10, keyDigit=0):
+        self.digits = getDigits(x, base)
+        self.keyDigit = keyDigit
+        self.value = x
+        
+    def key(self):#到第几层了
+        if len(self.digits) > self.keyDigit:
+            return self.digits[self.keyDigit]
+        return 0
+    
+    def updateKeyDigit(self,p):
+        self.keyDigit = p
+        
+    def getValue(self):
+        return self.value
+def bucketSortBase(A, base):
+    buckets = [[] for _ in range(base)]
+    for x in A:
+        buckets[x.key()].append(x)
+    sorted_arr = []
+    for bucket in buckets:
+        sorted_arr += bucket
+    return sorted_arr
+
+def radix_sort(A, n_digits, base):
+    B = [ myInt(x, base=base) for x in A ]
+    for j in range(n_digits):
+        for x in B:
+            x.updateKeyDigit(j)# (指定比较的位置)
+        B=bucketSortBase(B, base)# (桶排序)
+    B = [x.getValue() for x in B]
+    return B
+
+arr = [523,123,4,33,12]
+sorted_arr = radix_sort(arr, 3, 10)
+print(sorted_arr)
+```
+
+二元查找树
+
+``` python
+class Node:
+    def __init__(self,value,node = 0):
+        self.value = value
+        self.next = node
+        
+class LinkedList:
+    def __init__(self,value=0, *args):
+        self.lenth = 0
+        # 创建表头head
+        self.head = 0 if value == 0 else Node(value)
+        # 如果初始化实例时传入多个参数，循环加入链表
+        p = self.head
+        for i in [*args]:
+            node = Node(i)
+            p.next = node
+            p = p.next
+
+    def printLinkedList(self):
+        self.p = self.head
+        while self.p:
+            print(self.p.value)
+            if not self.p.next:
+                return self.p
+            self.p = self.p.next
+
+#在此添加代码append,insert
+    def append(self,value):
+        new_node=Node(value)
+        cur=self.head
+        while cur.next!=0:
+            cur=cur.next
+        cur.next=new_node
+
+    def insert(self,value):#插入在表头
+        self.head = Node(value,self.head)
+
+    def insert_anywhere(self,index,value):
+        if self.head is None or index <= 0:
+            self.head = Node(value,self.head)
+        else:
+            temp = self.head
+            while index > 1 and temp.next != None:
+                temp = temp.next
+                index = index-1
+            temp.next = Node(value,temp.next)
+        self.lenth = self.lenth+1
+    def searchIndex(self,value):
+        temp = self.head
+        index = 0
+        while temp != None and value != temp.value:
+            index = index+1
+            temp = temp.next
+        return index
+
+
+    def delete(self,value):
+        index = self.searchIndex(value)
+        if index <=0 or self.head.next is None:
+            removeItem = self.head.value
+            self.head = self.head.next
+        else:
+            temp = self.head
+            while index>1 and temp.next.next != None:
+                temp = temp.next
+                index = index-1
+            removeItem = temp.next.value
+            temp.next = temp.next.next
+        self.lenth = self.lenth -1
+        
+l = LinkedList(7,5,3,4,1,2,8)
+l.printLinkedList()
+```
+
