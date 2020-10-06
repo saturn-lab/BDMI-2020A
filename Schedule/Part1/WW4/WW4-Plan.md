@@ -11,7 +11,7 @@ Bring Your Laptop to Class.
 
 |时间段 |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :--- |   :----:    |   :----:    |    :----:    |       ---: |
-|   0  |  [回顾上节课](../WW3/WW3-Plan.md)  |  讲课    |     CZ     |      | 
+|   0  |  [回顾上节课](../WW3/WW3-Plan.md)  |  讲课    |     CZ     |      |
 
 |时间段   |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
@@ -28,18 +28,19 @@ Bring Your Laptop to Class.
 |时间段  |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---  |   :----:    |   :----:    |    :----:    |       ---: |
 |   1   | 基本数据结构  |  讲课  |     CZ  |   data structure      |
-|   1   | 基本数据结构: [Linked List](../../../Computing/Algorithm/linked-list.ipynb)   |  讲课、实践   |     CZ  |   想一想，做一做      | 
+|   1   | 基本数据结构: [Linked List](../../../Computing/Algorithm/linked-list.ipynb)   |  讲课、实践   |     CZ  |   想一想，做一做      |
+|   1   | 基本数据结构: [Linked List课上习题](../../../Computing/Algorithm/LinkList课上习题.ipynb)   |  讲课、实践   |     CZ  |   想一想，做一做      |
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
 |   1  |  查找结构：二元查找树  |  讲课    |     WX     |  数据结构   |
-|   2  |  二元查找树练习：[BST实验](../../../Computing/Algorithm/BST.ipynb)    |  讲课    |     WX     |   想一想，练一练  |
+|   2  |  二元查找树练习：[BST实验](../../../Computing/Algorithm/BST课上习题.ipynb)    |  讲课    |     WX     |   想一想，练一练  |
 
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
-|   4  |  查找结构：哈希表与哈希函数族，Hashing, Hashing!  |  讲课    |     GM     |  
+|   4  |  查找结构：哈希表与哈希函数族，Hashing, Hashing!  |  讲课    |     GM     |
 |   5  |  [哈希表实验](../../../Computing/Algorithm/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     ZY     |    想一想，练一练       |
 
 
