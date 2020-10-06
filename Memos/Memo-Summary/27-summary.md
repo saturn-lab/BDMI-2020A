@@ -1,3 +1,5 @@
-# 第一周小节
+- [第一周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/27-Day1.md)
 
-这周安装了一些软件，主要学习了markdown与github的使用，虽然在完成作业时出现了小意外，不过还是比较顺利的
+- [第二周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/27-Day2.md)
+
+- [第三周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/27-Day3.md)

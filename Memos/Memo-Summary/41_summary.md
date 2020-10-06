@@ -1,7 +1,7 @@
 # Summary
 - [x] [Day 1](../Study-Memo/41-Day1.md)
-- [ ] [Day 2](../Study-Memo/41-Day2.md)
-- [ ] [Day 3](../Study-Memo/41-Day3.md)
+- [x] [Day 2](../Study-Memo/41-Day2.md)
+- [x] [Day 3](../Study-Memo/41-Day3.md)
 - [ ] [Day 4](../Study-Memo/41-Day4.md)
 - [ ] [Day 5](../Study-Memo/41-Day5.md)
 - [ ] [Day 6](../Study-Memo/41-Day6.md)

@@ -37,7 +37,7 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   9       |  Matplotlib画图   |  讲课    |     ZY     |           |
+|   9       |  Matplotlib画图[notebook](../../../Computing/Python3/matplotlib_python/plot.ipynb)   |  讲课    |     ZY     |           |
 |   10       |  小练习：  |   实践   |     ZY     |    想一想，做一做      |
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
@@ -53,18 +53,12 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   14       | 排序算法（InsertionSort）       |  讲课    |     GM     |         |
-|   15       | 插入排序算法实验[sorting算法](../../ML-BD-Algo/cs161-2018/lecture2_sorting.ipynb)     |  实践    |     TAs     |        |
-
-
-|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   16      | [展望下节课](../WW3/WW3-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
+|   14      | [展望下节课](../WW3/WW3-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1      | 课堂练习代码的验收     |  实验   |     CZ/GM/ZY/WX     |    腾会会议室开启等候室，排队验收     |
+|   1      | 课堂练习代码的验收     |  实验   |     CZ/GM/ZY/WX     |    腾讯会议室开启等候室，排队验收     |
 |   2      | 学习小结 上交至[Study-Memo](../../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至9月29日下午1点      |
 |   3      | 小结目录 更新 [Memo-Summary](../../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至9月29日下午1点      |
 
