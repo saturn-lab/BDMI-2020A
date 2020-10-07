@@ -20,7 +20,7 @@ Bring Your Laptop and smart phone  to Class.
 |时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
 |    4    |  SQL I   |   讲课    |     GM     |   安装Dbeaver，Tableau软件      |
-|    5    |  [SQL-I](../../MI-DS-Algo/DS/cs145-2018)    |   实践    |     WHY/TAs     |    SQLite     |
+|    5    |  [SQL-I](../../MI-DS-Algo/DS/cs145-2018)    |   实践    |     WHY/TAs     | 安装DB Browser for SQLite     |
 
 
 | 时间段  |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
