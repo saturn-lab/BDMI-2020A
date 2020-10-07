@@ -2,30 +2,30 @@
 
 Bring Your Laptop and smart phone  to Class. 
 
-|时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
+|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :---    |   :----:    |   :----:    |    :----:    | ---: |
+|   0     |  课程签到     |  logistics   |     ZY     |   线上线下上课，均需要先签到雨课堂     |
+
+|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
-|   0      |  课程签到     |  logistics   |     ZY     |   线上线下上课，均需要先签到雨课堂     |
+|   1      |  [回顾上节课](../WW4/WW4-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
 
-|时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
+|时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
-|   1       |  [回顾上节课](../WW4/WW4-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
+|   2      |  Why Data System?   |   讲课    |     CZ     |   Data System      |
+|   3      |  Overview of Relational   |   讲课    |     CZ     |   Data System      |
+|   3      |  [SQL-history](../../MI-DS-Algo/DS/)   |   讲课    |     CZ     |   Data System      |
 
-|时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
+
+|时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
-|   2       |  Why Data System?   |   讲课    |     CZ     |   Data System      |
-|   3       |  Overview of Relational   |   讲课    |     CZ     |   Data System      |
-|   3       |  [SQL-history](../../MI-DS-Algo/DS/)   |   讲课    |     CZ     |   Data System      |
+|    4    |  SQL I   |   讲课    |     GM     |   安装Dbeaver，Tableau软件      |
+|    5    |  [SQL-I](../../MI-DS-Algo/DS/cs145-2018)    |   实践    |     WHY/TAs     |    SQLite     |
 
 
-|时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
-| :---     |   :----:    |   :----:    |    :----:    | ---: |
-|   4       |  SQL I   |   讲课    |     GM     |   安装Dbeaver，Tableau软件      |
-|   5       |  [SQL-I](../../MI-DS-Algo/DS/cs145-2018)    |   实践    |     WHY/TAs     |    SQLite     |
-
-
-| 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
-| :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
-|    2   | [Pandas](https://pandas.pydata.org)     |  讲课与实践   |     WX     |    读取SQL数据库，图形化展示    |
+| 时间段  |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
+| :-----  | :----------------------------------------------------------: | :---------: | :---: | ---: |
+|    2    | [Pandas](https://pandas.pydata.org)     |  讲课与实践   |     WX     |    读取SQL数据库，图形化展示    |
 
 
 |时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
@@ -36,8 +36,15 @@ Bring Your Laptop and smart phone  to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
-|   8       |  [postgresql安装](http://postgresql.org)   |   实践    |     WH     |   postgresql, 简称pg      |
-|   8       |  [greenplum安装](http://greenplum.org)   |   实践    |     WH     |   greenplum, 简称gp      |
+|     8     |  [postgresql安装](http://postgresql.org)   |   实践    |     WH     |   postgresql, 简称pg      |
+|      8    |  [greenplum安装](http://greenplum.org)   |   实践    |     WH     |   greenplum, 简称gp      |
+
+
+|时间段 |  内容  | 讲课 / 实践 |  分工  |备注  |
+| :--- | :----: | :----: | :----:  |  ---: |
+|   4  |  查找结构：哈希表与哈希函数族，Hashing, Hashing!  |  讲课    |     GM     |
+|   5  |  [哈希表实验](../../../Computing/Algorithm/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     ZY     |    想一想，练一练       |
+
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
