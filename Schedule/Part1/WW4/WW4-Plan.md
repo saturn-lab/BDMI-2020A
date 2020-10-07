@@ -38,11 +38,6 @@ Bring Your Laptop to Class.
 |   2  |  二元查找树练习：[BST实验](../../../Computing/Algorithm/BST课上习题.ipynb)    |  讲课    |     WX     |   想一想，练一练  |
 
 
-|时间段 |  内容  | 讲课 / 实践 |  分工  |备注  |
-| :--- | :----: | :----: | :----:  |  ---: |
-|   4  |  查找结构：哈希表与哈希函数族，Hashing, Hashing!  |  讲课    |     GM     |
-|   5  |  [哈希表实验](../../../Computing/Algorithm/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     ZY     |    想一想，练一练       |
-
 
 |时间段 |  内容    | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
