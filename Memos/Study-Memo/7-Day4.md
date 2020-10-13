@@ -28,12 +28,12 @@
 #### 链表
 
 * 插入需要 $O(1)$
-* 索引需要 $O(n)$
+* 查找需要 $O(n)$
 
 #### 二叉树
 
 * 二叉树的遍历，修改等基本操作
-* 插入、索引、删除需要 $O(logn)$
+* 插入、查找、删除需要 $O(logn)$
 
 #### [课堂练习代码](https://github.com/Yuanz233/BDMI-Course/blob/master/Code/Week4.ipynb)
 
