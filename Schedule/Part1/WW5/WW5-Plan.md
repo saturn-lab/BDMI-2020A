@@ -16,7 +16,7 @@ Bring Your Laptop and smart phone  to Class.
 |时间段 |  内容  | 讲课 / 实践 |  分工  |备注  |
 | :--- | :----: | :----: | :----:  |  ---: |
 |   2  |  查找结构：哈希表与哈希函数族，Hashing, Hashing!  |  讲课    |     GM     |
-|   3  |  [哈希表实验](../../../Computing/Algorithm/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     ZY     |    想一想，练一练       |
+|   3  |  [哈希表实验](../../../Computing/Algorithm/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     GM     |    想一想，练一练       |
 
 
 |时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
@@ -27,6 +27,7 @@ Bring Your Laptop and smart phone  to Class.
 |时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
 |   5      |  Python SQLite   |   讲课    |     CZ     |   Data System      |
+|   5      |  [SQLite练习](../../../Computing/DataSystem/sql.ipynb) | 实践 | ZY | 想一想，练一练 |
 
 
 | 时间段   |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
