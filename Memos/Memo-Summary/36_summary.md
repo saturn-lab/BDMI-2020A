@@ -1,10 +1,10 @@
-36-Day1
+[36-Day1](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/36-Day1.md)
 
-36-Day2
+[36-Day2](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/36-Day2.md)
 
-36-Day3
+[36-Day3](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/36-Day3.md)
 
-36-Day4
+[36-Day4](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/36-Day4.md)
 
 36-Day5
 
