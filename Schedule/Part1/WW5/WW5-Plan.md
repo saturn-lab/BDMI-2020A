@@ -32,6 +32,7 @@ Bring Your Laptop and smart phone  to Class.
 | 时间段   |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :-----  | :----------------------------------------------------------: | :---------: | :---: | ---: |
 |    6    | [Pandas](https://pandas.pydata.org)     |  讲课与实践   |     WX     |    读取SQL数据库，图形化展示    |
+|    7    | [Pandas课上练习](../../../Computing/Algorithm/pandas课上练习.ipynb)     |  讲课与实践   |     WX     |    读取SQL数据库，图形化展示    |
 
 
 | 时间段   |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
