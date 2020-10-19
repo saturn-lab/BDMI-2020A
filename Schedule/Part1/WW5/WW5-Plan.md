@@ -21,7 +21,7 @@ Bring Your Laptop and smart phone  to Class.
 
 |时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---    |   :----:    |   :----:    |    :----:    | ---: |
-|    4    |  SQL语言第一部分：基础内容  |   讲课    |     CZ     |   安装Dbeaver， 安装DB Browser for SQLite      |
+|    4    |  SQL语言第一部分：[SQL基础内容](5-1-2-SQL-2-V3.pdf)  |   讲课    |     CZ     |   安装Dbeaver， 安装DB Browser for SQLite      |
 
 
 
