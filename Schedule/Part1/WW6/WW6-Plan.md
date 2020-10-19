@@ -16,7 +16,8 @@ Note: Bring Your Laptop  and Smart Phone to Class.
 
 |时间段  |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----   |   :----:    |    :----:    | ---: |
-|   2   |  数据库进阶[SQL-III-课件](../WW6#数据库进阶课件)  |   讲课    |     CZ     |         |
+|   2   |  数据库进阶[SQL-II-课件](../WW6)  |   讲课    |     CZ     |         |
+
 
 
 
@@ -40,7 +41,13 @@ Note: Bring Your Laptop  and Smart Phone to Class.
 
 ## 补充材料
 
+|时间段  |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :---  |   :----   |   :----:    |    :----:    | ---: |
+|   X   |  数据库进阶[SQL-III-课件](../WW6#数据库进阶课件)  |   课外阅读    |          |    Optional     |
+
 [数据库实现](WW6-Option.md)
+
+
 
 
 大家注意：勿上传``有版权``的课程参考资料。
