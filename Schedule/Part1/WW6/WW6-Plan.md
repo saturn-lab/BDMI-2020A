@@ -25,8 +25,8 @@ Note: Bring Your Laptop  and Smart Phone to Class.
 
 |时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---    |  :----:  |   :----:    |    :----:    | ---: |
-|    3    |  远端数据访问： 安装Dbeaver   |   实践    |           |   想一想，练一练   |
-|    3    |  远端数据访问： 安装postgresql   |   实践    |           |   想一想，练一练   |
+|    3    |  远端数据访问： 安装Dbeaver   |   实践    |     WX      |   想一想，练一练   |
+|    3    |  远端数据访问： 安装postgresql   |   实践    |    WX       |   想一想，练一练   |
 
 
 |时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
@@ -38,7 +38,6 @@ Note: Bring Your Laptop  and Smart Phone to Class.
 |时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---    |  :----:  |   :----:    |    :----:    | ---: |
 |    3    |  远端数据访问： 安装Dbeaver   |   实践    |           |   想一想，练一练   |
-
 
 
 |时间段  |  内容    | 讲课 / 实践  |  分工  |  备注       |
@@ -71,9 +70,8 @@ Note: Bring Your Laptop  and Smart Phone to Class.
 | :---  |   :----   |   :----:    |    :----:    | ---: |
 |   X   |  数据库进阶[SQL-III-课件](../WW6#数据库进阶课件)  |   课外阅读    |          |    Optional     |
 
+
 [数据库实现](WW6-Option.md)
-
-
 
 
 大家注意：勿上传``有版权``的课程参考资料。
