@@ -32,13 +32,19 @@ Note: Bring Your Laptop  and Smart Phone to Class.
 
 |时间段  |  内容    | 讲课 / 实践  |  分工  |  备注       |
 | :---  |  :----:  | :----:  |    :----:    | ---: |
-|   3   |  Review of Homework 1 [(Solution)](../../Course-Projects/Course_Project_2/hw1_solution.py)    |     |  ZY  |    |
+|   4   |  [Review of Homework 1 ](Solution)  |     |  ZY  |    |
 
 
 
 |时间段  |  内容    | 讲课 / 实践  |  分工  |  备注       |
 | :---  |  :----:  | :----:  |    :----:    | ---: |
-|   4   | 课程小结，[展望下节课](../WW7/WW7-Plan.md) |      | CZ   |      |
+|   4   |  [Review of Tkinter 作业](Solution)  |     |  ZY  |    |
+
+
+
+|时间段  |  内容    | 讲课 / 实践  |  分工  |  备注       |
+| :---  |  :----:  | :----:  |    :----:    | ---: |
+|   5   | 课程小结，[展望下节课](../WW7/WW7-Plan.md) |      | CZ   |      |
 
 
 
