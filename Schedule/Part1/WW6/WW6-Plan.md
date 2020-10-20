@@ -32,7 +32,7 @@ Note: Bring Your Laptop  and Smart Phone to Class.
 |时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---    |  :----:  |   :----:    |    :----:    | ---: |
 |    3    |  Dbeaver  数据库访问   |   实践    |           |   想一想，练一练（5min）   |
-|    3    |  Python notebook SQL：数据访问[postgresql参考代码](../../../Computing/DataSystem/5-sql-pg-notebook-2.ipynb)       |   实践   |           |    想一想，练一练（5min）[postgresql想一想练一练](../../../Computing/DataSystem/postgreSQL想一想练一练.ipynb)     |
+|    3    |  Python notebook SQL：数据访问[postgresql参考代码](../../../Computing/DataSystem/5-sql-pg-notebook-3.ipynb)       |   实践   |           |    想一想，练一练（5min）[postgresql想一想练一练](../../../Computing/DataSystem/postgreSQL想一想练一练.ipynb)     |
 
 
 |时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
