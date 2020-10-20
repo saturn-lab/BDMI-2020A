@@ -3,3 +3,4 @@
 [第三周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/53-Day3.md)
 [第四周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/53-Day4.md)
 [第五周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/53-Day5.md)
+[第六周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/53-Day6.md)
