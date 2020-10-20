@@ -5,3 +5,5 @@
 - [第三周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/27-Day3.md)
 
 - [第四周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/27-Day4.md)
+
+- [第五周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/27-Day5.md)
