@@ -13,14 +13,14 @@ Bring Your Laptop  and Smart Phone to Class.
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
-|    2   | [Numpy介绍](../../TensorFlow/numpy)     |  讲课与实践   |     GM     |        |
+|    2   | [Numpy介绍](../../../Computing/TensorFlow2/numpy)     |  讲课与实践   |     GM     |        |
 
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
 |    3   | 深度学习1：人工神经元 |  讲课    |    GM    |         |
-|    4   | [activation Funcation: numpy实现](../../TensorFlow/numpy)   |  讲课，实践    |    ZY    |         |
-|    4   | [TensorFlow-history](../../MI-DS-Algo/MI/tensorflow-history)   |  讲课，实践    |    ZY    |         |
+|    4   | [activation Funcation: numpy实现](../../../Computing/TensorFlow2/numpy)   |  讲课，实践    |    ZY    |         |
+|    4   | [TensorFlow-history](../../../Readings/MI/tensorflow-history)   |  讲课，实践    |    ZY    |         |
 |    5   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  ZY  |  练习：分类螺旋线问题，截图发在微信群   |
 
 
@@ -28,7 +28,7 @@ Bring Your Laptop  and Smart Phone to Class.
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
 |    5   | 深度学习2：网络训练   |    讲课     |  CZ   |      |
 |    6   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf) |    讲课     |  WHY   |      |
-|    7   | [tensorflow-v2](../../TensorFlow/TensorFlow-v2)        |    实践     |  TA   |      |
+|    7   | [tensorflow-v2](../../../Computing/TensorFlow2)        |    实践     |  TA   |      |
 |    8   | Tensor基本运算、logisitic regression\linear regression |  讲课，实践    |    WHY    |         |
 
 
