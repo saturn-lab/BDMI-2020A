@@ -2,9 +2,12 @@
 
 Bring Your Laptop  and Smart Phone to Class. 
 
+## 深度学习初步
+
 |时间段     |  内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---:   |
 |   0       | 课程签到     |  logistics   |     ZY     |   线上线下上课，均需要先签到雨课堂     |
+
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
@@ -13,20 +16,41 @@ Bring Your Laptop  and Smart Phone to Class.
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
-|    2   | [Numpy介绍](../../../Computing/TensorFlow2/numpy)     |  讲课与实践   |     GM     |        |
+|    2   | [Numpy/Scipy介绍]( )     |  讲课   |     GM     |        |
+|    3   | [Numpy实践](../../../Computing/TensorFlow2/numpy)     |  讲课   |     GM     |        |
 
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
-|    3   | 深度学习1：人工神经元 |  讲课    |    GM    |         |
-|    4   | [activation Funcation: numpy实现](../../../Computing/TensorFlow2/numpy)   |  讲课，实践    |    ZY    |         |
-|    4   | [TensorFlow-history](../../../Readings/MI/tensorflow-history)   |  讲课，实践    |    ZY    |         |
-|    5   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  ZY  |  练习：分类螺旋线问题，截图发在微信群   |
+|    3   | 深度学习1：人工神经元 |  讲课    |    CZ    |         |
+|    4   | [activation Funcation: numpy实现](../../../Computing/TensorFlow2/numpy)   |  讲课，实践    |    WX    |    想一想，练一练（参考答案）      |
 
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
 |    5   | 深度学习2：网络训练   |    讲课     |  CZ   |      |
+|    5   | 深度学习2：网络训练   |    实践     |  ZY   |  想一想，练一练（参考答案）    |
+
+
+| 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
+| :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
+|    5   | 深度学习3：深度网络实现   |    讲课     |  CZ   |      |
+|    5   | 数值计算基础   |    讲课     |  CZ   |      |
+|    5   | Python 数值计算   |    实践     |  GM   |      |
+
+
+## TensorFlow初步
+
+
+| 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
+| :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
+|    4   | [TensorFlow-history](../../../Readings/MI/tensorflow-history)   |  讲课，实践    |    ZY    |         |
+|    5   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  ZY  |  练习：分类螺旋线问题，截图发在微信群   |
+
+
+
+| 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
+| :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
 |    6   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf) |    讲课     |  WHY   |      |
 |    7   | [tensorflow-v2](../../../Computing/TensorFlow2)        |    实践     |  TA   |      |
 |    8   | Tensor基本运算、logisitic regression\linear regression |  讲课，实践    |    WHY    |         |
