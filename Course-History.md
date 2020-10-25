@@ -1,4 +1,4 @@
-# 课程介绍
+## 课程介绍
 
 《大数据与机器智能》于2016年秋季开课，属于“科学课组类”通识课程。
 
@@ -8,16 +8,15 @@
 
 同时，通过学习机器学习理论，尤其是深度学习（Deep Learning）技术，理解机器智能（Machine Intelligence）的原理。
 
-# table of Content
 
-1. Principle of computing with Python
+## 历任教师
 
-2. Algorithm and data structure
+陆昕
 
-3. Data system with SQL
+## 历任助教
 
-4. Deep Learning with TensorFlow
+黄世宇、谢睿
 
-5. Course projects
+高宸、许书畅
 
-
+郑文勋、钱鹏、常嘉辉
