@@ -51,7 +51,6 @@ Bring Your Laptop  and Smart Phone to Class.
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
-
 |    7   | [tensorflow-v2](../../../Computing/TensorFlow2)        |    实践     |  TA   |      |
 |    8   | Tensor基本运算、logisitic regression\linear regression |  讲课，实践    |    WX    |         |
 
