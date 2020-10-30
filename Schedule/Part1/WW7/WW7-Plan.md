@@ -45,12 +45,13 @@ Bring Your Laptop  and Smart Phone to Class.
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
 |    4   | [TensorFlow-history](../../../Readings/MI/tensorflow-history)   |  讲课，实践    |    ZY    |         |
-|    5   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  ZY  |  练习：分类螺旋线问题，截图发在微信群   |
+|    5   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf) |    讲课     |  WX   |      |
+|    6   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  ZY  |  练习：分类螺旋线问题，截图发在微信群   |
 
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
-|    6   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf) |    讲课     |  WX   |      |
+
 |    7   | [tensorflow-v2](../../../Computing/TensorFlow2)        |    实践     |  TA   |      |
 |    8   | Tensor基本运算、logisitic regression\linear regression |  讲课，实践    |    WX    |         |
 
