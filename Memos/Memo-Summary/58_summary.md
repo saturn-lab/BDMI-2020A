@@ -13,3 +13,13 @@
 [Day8_memo](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/58-day8.md)
 
 [Day9_memo](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/58-day9.md)
+
+[Day10_memo](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/58-day10.md)
+
+[Day11_memo](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/58-day11.md)
+
+[Day12_memo](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/58-day12.md)
+
+[Day13_memo](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/58-day13.md)
+
+[Day14_memo](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/58-day14.md)
