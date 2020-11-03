@@ -30,7 +30,7 @@ Bring Your Laptop  and Smart Phone to Class.
 | :----- | :---------------------: | :---------: | :---: | ---: |
 |    2   |  [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf)\ [tensor](../../../Computing/TensorFlow2/learnTensorFlow2/notebooks/1_Introduction/basic_operations.ipynb)\   |    讲课     | WX  |  20 min   |
 |    2   | [linear_regression](../../../Computing/TensorFlow2/learnTensorFlow2/notebooks/2_BasicModels/linear_regression.ipynb)\ [logistic_regression](../../../Computing/TensorFlow2/learnTensorFlow2/notebooks/2_BasicModels/logistic_regression.ipynb)   |   实践     |  WX   |  20 min   |
-|    2   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  ZY  |  练习：分类螺旋线问题，截图发在微信群   |
+|    2   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  WX  |  练习：分类螺旋线问题，截图发在微信群   |
 
 
 
