@@ -4,3 +4,4 @@
 - [第4周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/75-Day4.md)
 - [第5周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/75-Day5.md)
 - [第6周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/75-Day6.md)
+- [第7周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/75-Day7.md)
