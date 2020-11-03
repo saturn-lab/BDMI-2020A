@@ -34,6 +34,11 @@ Bring Your Laptop  and Smart Phone to Class.
 |    4   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  WX  |  练习：分类螺旋线问题，截图发在微信群   |
 
 
+
+|时间段  |  内容    | 讲课 / 实践  |  分工  |  备注       |
+| :---  |  :------:  | :----:  |    :----:    | ---: |
+|   5  |  课程小结，[展望下节课](../WW9/WW9-Plan.md)       |     |  CZ |   |
+
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :-------:    |   :----:    |    :----:    |       ---: |
 |   1      | 实验代码的验收     |  实验   |     CZ/GM/ZY/WX     |    腾会会议室开启等候室，排队验收     |
