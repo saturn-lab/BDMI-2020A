@@ -6,7 +6,6 @@
 
 3 声控智能原理（3），深度学习TensorFlow库，实现DNN, CNN,RNN.
 
-
 # 声控智能实践
 
 （1）语音指令录音：录音文件 audioPlot；

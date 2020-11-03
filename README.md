@@ -18,8 +18,9 @@ TAs: Yu Zheng, Xu Wang
 
 - [Computing](Computing)/ Python-算法-数据管理-机器学习材料 
 - [Logistics](Logistics)/ 签到与团队建设
-- [Part1-Schedule](Schedule/Part1)/WWn/  前9周教学安排
-- [Part2-Schedule](Schedule/Part2)/WWn/ 后9周教学安排，第n次课的课件和参考代码
+- [Schedule](Schedule)
+- - [Part1](Schedule/Part1)/WWn/  前9周教学安排
+- - [Part2](Schedule/Part2)/WWn/ 后9周教学安排，第n次课的课件和参考代码
 - [Course-Projects](Course-Projects)/ 课程实践任务
 - [Readings](Readings)/ 课程课外阅读的论文材料
 - [Memos](Memos)

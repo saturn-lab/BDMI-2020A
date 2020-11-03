@@ -1,20 +1,33 @@
-2020-11-10
-
-Bring Your Laptop to Class. 
-
-| 时间段 |  内容     |  讲课 / 实践     |   分工  |   备注       |
-|:--- | :----:    |   :----:    |    :----:    |       ---: |
-|  1  |  [回顾上节课](../WW8/WW8-Plan.md)，介绍本节课内容 |  讲课  |   CZ   |      |
-|  2  |  RNN演示 [char-rnn-tensorflow](min-char-rnn-tensorflow.ipynb)    |   实践    |   huang    |         | 
-|  3  |  RNN 新发展：神经图灵机NTM/DNC |   讲课     |  huang      |           |
-|  4  |  Python获取语音(pyAudio)    |   实践    |   WHY    |         |
-|  5  |  ASR-CTC 原理与技术 |  讲课    |  Xie |    |
-|  6  |  语音识别与智能音箱产业  |   讲课     |     CZ   |           |
-|  7  |  TensorFlow-ASR语音识别实践    |  实践     |   WHY    |         | 
-|  8  |  [AudioRecg](Project-AudioRecg.md)  |   实践    |    CZ    |         |
-|  9  |  课程小结，[展望下一节课](../../Part2-Weeks/WW10/WW10-Plan.md)   |   讲课    |     CZ&TAs     |       |
+|时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :--- |   :----:    |   :----:    |    :----:    | ---: |
 
 
+|时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :--- |   :----:    |   :----:    |    :----:    | ---: |
+|   2  | 深度学习4   | 讲课 |  CZ   |     |
 
 
-大家注意：勿上传``有版权``的课程参考资料。
+|时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :--- |   :----:    |   :----:    |    :----:    | ---: |
+|   2  | [自动微分: Automatic Differential](2AD.pdf)   | 讲课 |  ZY   |  optional  |
+
+
+## TensorFlow深入
+
+| 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
+| :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
+|    2   | [TensorFlow-history](../../../Readings/MI/tensorflow-history)   |  讲课，实践    |    ZY    |         |
+|    7   | [tensorflow-v2](../../../Computing/TensorFlow2)        |    实践     |  TA   |      |
+|    8   | Tensor基本运算、logisitic regression\linear regression |  讲课，实践    |    WX    |         |
+
+|时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :--- |   :----:    |   :----:    |    :----:    | ---: |
+|   3  | TensorFlow-more |  讲课   |  GM  |    |
+
+|时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :--- |   :----:    |   :----:    |    :----:    | ---: |
+|   4  | [卷积网络与循环网络](1CNN_RNN.pdf)  |   讲课    |      |     |
+
+|时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :--- |   :----:    |   :----:    |    :----:    | ---: |
+|   5  | tensorflow-cnn-rnn    |   讲课    |   CZ    |         |

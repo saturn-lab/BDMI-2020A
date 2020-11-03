@@ -7,3 +7,8 @@
 [第4周小结](../Study-Memo/68-Day4.md)
 
 [第5周小结](../Study-Memo/68-Day5.md)
+
+[第6周小结](../Study-Memo/68-Day6.md)
+
+[第7周小结](../Study-Memo/68-Day7.md)
+
