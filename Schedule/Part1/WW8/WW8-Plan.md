@@ -28,7 +28,7 @@ Bring Your Laptop  and Smart Phone to Class.
 
 | 时间段 |           内容            | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :-------------------------: | :---------: | :---: | ---: |
-|    2   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf)\ [课上文件](../../../Computing/Algorithm/TensorFlow2/learnTensorFlow2/notebooks/)|    讲课     |  WX   |   20 min|
+|    2   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf)\ [tensor](../../../Computing/Algorithm/TensorFlow2/learnTensorFlow2/notebooks/1_Introduction/basic_operations.ipynb)\ [linear_regression](../../../Computing/Algorithm/TensorFlow2/learnTensorFlow2/notebooks/2_BasicModels/linear_regression.ipynb)\ [logistic_regression](../../../Computing/Algorithm/TensorFlow2/learnTensorFlow2/notebooks/2_BasicModels/logistic_regression.ipynb)|    讲课     |  WX   |   20 min|
 
 |    2   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  ZY  |  练习：分类螺旋线问题，截图发在微信群   |
 
