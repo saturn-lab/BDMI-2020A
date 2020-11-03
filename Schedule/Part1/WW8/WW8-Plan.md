@@ -21,7 +21,7 @@ Bring Your Laptop  and Smart Phone to Class.
 | 时间段 |           内容            | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :---------------------: | :---------: | :---: | ---: |
 |    1   | 深度学习2：网络训练   |    讲课     |  CZ   |  接上节课 30 min   |
-|    1   | Logistic回归课程示例   |   实践     |  ZY   |  15 min   |
+|    1   | [Logistic回归课程示例](../../../Computing/logistic_regression/logistic_regression_scratch.ipynb)   |   实践     |  ZY   |  15 min   |
 
 
 ## TensorFlow初步
