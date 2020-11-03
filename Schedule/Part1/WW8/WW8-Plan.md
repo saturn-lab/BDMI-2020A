@@ -16,7 +16,7 @@ Bring Your Laptop  and Smart Phone to Class.
 | 时间段 |           内容            | 讲课 / 实践 |   分工  | 备注 |
 | :----- | :---------------: | :---------: | :----: | ---: |
 |    2   |  Pandas准备   |    讲课     |   WX   |  10 min   |
-|    2   |  [pandas练习](../../../Computing/Algorithm/pandas-demo.ipynb)  |    实验     |  WX  |  10 min   |
+|    2   |  [pandas练习](../../../Computing/Algorithm/learnPandas.ipynb)  |    实验     |  WX  |  10 min   |
 
 
 | 时间段 |           内容            | 讲课 / 实践 |   分工  |   备注   |
@@ -29,8 +29,8 @@ Bring Your Laptop  and Smart Phone to Class.
 
 | 时间段 |           内容            | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :---------------------: | :---------: | :---: | ---: |
-|    4   |  [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf)  |    讲课     | WX  |  20 min   |
-|    4   |  Tensor操作实验(../../../Computing/TensorFlow2/learnTensorFlow2/notebooks/1_Introduction/basic_operations.ipynb)\   |    讲课     | WX  |  20 min   |
+|    4   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf)  |    讲课     | WX  |  20 min   |
+|    4   | [Tensor操作实验](../../../Computing/TensorFlow2/learnTensorFlow2/notebooks/1_Introduction/basic_operations.ipynb)  |    讲课     | WX  |  20 min   |
 |    4   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  WX  |  练习：分类螺旋线问题，截图发在微信群   |
 
 
