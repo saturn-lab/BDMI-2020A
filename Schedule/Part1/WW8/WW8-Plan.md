@@ -15,8 +15,8 @@ Bring Your Laptop  and Smart Phone to Class.
 
 | 时间段 |           内容            | 讲课 / 实践 |   分工  | 备注 |
 | :----- | :---------------: | :---------: | :----: | ---: |
-|    2   |  Pandas准备   |    讲课     |   WX   |  10 min   |
-|    2   |  [pandas练习](../../../Computing/Algorithm/learnPandas.ipynb)  |    实验     |  WX  |  10 min   |
+|    2   |  [Pandas准备](../../../Computing/Python3/pandas/)  |    讲课     |   WX   |  10 min   |
+|    2   |  [pandas练习](../../../Computing/Python3/pandas/learnPandas.ipynb)  |    实验     |  WX  |  10 min   |
 
 
 | 时间段 |           内容            | 讲课 / 实践 |   分工  |   备注   |
