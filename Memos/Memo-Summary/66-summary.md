@@ -5,4 +5,4 @@
 - [第5周小结](../Study-Memo/66-Day5.md)
 - [第6周小结](../Study-Memo/66-Day6.md)
 - [第7周小结](../Study-Memo/66-Day7.md)
-- [第7周小结](../Study-Memo/66-Day8.md)
+- [第8周小结](../Study-Memo/66-Day8.md)
