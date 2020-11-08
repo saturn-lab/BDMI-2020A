@@ -6,7 +6,7 @@
 
 | 时间段 |       内容         | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :------------: | :---------: | :-----: | -----: |
-|    2   | [TensorFlow2基础](TensorFlow2-basic.cmd)  |    实践     |  TA   |      |
+|    2   | [TensorFlow2基础](TensorFlow2-basic.md)  |    实践     |  TA   |      |
 |    2   | [tensorflow-v2](../../../Computing/TensorFlow2)    |    实践     |  TA   |      |
 |    2   | Tensor基本运算  |  讲课，实践    |    WX    |         |
 
