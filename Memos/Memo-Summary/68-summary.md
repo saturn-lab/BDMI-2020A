@@ -12,3 +12,5 @@
 
 [第7周小结](../Study-Memo/68-Day7.md)
 
+[第8周小结](../Study-Memo/68-Day8.md)
+
