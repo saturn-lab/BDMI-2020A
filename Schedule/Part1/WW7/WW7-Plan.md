@@ -17,13 +17,13 @@ Bring Your Laptop  and Smart Phone to Class.
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
 |    2   | [Numpy/Scipy介绍]( )     |  讲课   |     GM     |        |
-|    3   | [Numpy实践](../../../Computing/TensorFlow2/numpy)     |  讲课   |     GM     |        |
+|    3   | [Numpy实践](../../../Computing/Python3/numpy)     |  讲课   |     GM     |        |
 
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
 |    4   | 深度学习1：人工神经元 |  讲课    |    CZ    |         |
-|    4   | [activation Funcation: numpy实现](../../../Computing/TensorFlow2/numpy)   |  讲课，实践    |    WX    |    想一想，练一练（参考答案）      |
+|    4   | [activation Funcation: numpy实现](../../../Computing/Python3/numpy)   |  讲课，实践    |    WX    |    想一想，练一练（参考答案）      |
 
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |

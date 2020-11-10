@@ -5,3 +5,4 @@
 - <a href='https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/05-Day5.md'>第五周小结</a>
 - <a href='https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/05-Day6.md'>第六周小结</a>
 - <a href='https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/05-Day7.md'>第七周小结</a>
+- <a href='https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/05-Day8.md'>第八周小结</a>
