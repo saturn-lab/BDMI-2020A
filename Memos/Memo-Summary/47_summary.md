@@ -4,3 +4,6 @@
 [第4周小结](../Study-Memo/47-Day4.md)
 [第5周小结](../Study-Memo/47-Day5.md)
 [第6周小结](../Study-Memo/47-Day6.md)
+[第7周小结](../Study-Memo/47-Day7.md)
+[第8周小结](../Study-Memo/47-Day8.md)
+[第9周小结](../Study-Memo/47-Day9.md)
