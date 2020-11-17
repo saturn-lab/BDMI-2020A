@@ -17,3 +17,7 @@
 ## . [第七次课程总结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/06-Day7.md)
 
 ## . [第八次课程总结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/06-Day8.md)
+
+## . [第九次课程总结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/06-Day9.md)
+
+## . [第十次课程总结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/06-Day10.md)
