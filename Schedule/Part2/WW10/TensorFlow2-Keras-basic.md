@@ -7,7 +7,7 @@
 
 | 时间段 |        内容        |  讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------: | :---------: | :-----: | :----- |
-|    1   |  Keras序列API  |  讲课，实践    |    GM    |   https://tensorflow.google.cn/guide/keras/sequential_model    |
+|    1   |  Keras顺序模型  |  讲课，实践    |    GM    |   https://tensorflow.google.cn/guide/keras/sequential_model    |
 |    2   |  Keras函数式 API     |    实践     |  ZY   |  https://tensorflow.google.cn/guide/keras/functional     |
 |    3   |  Keras训练和评估    |    实践     |  WX   |  https://tensorflow.google.cn/guide/keras/train_and_evaluate     |
 |    4   |  Keras层和模型   |    实践     |  ZY   |  https://tensorflow.google.cn/guide/keras/custom_layers_and_models  |
