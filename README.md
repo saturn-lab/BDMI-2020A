@@ -9,9 +9,9 @@
 
 ## 教师与助教
 
-Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、Min Guo 
+Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、[Min Guo](https://github.com/guo-m13)
 
-TAs: Yu Zheng, Xu Wang
+TAs: [Yu Zheng](https://github.com/DavyMorgan), [Xu Wang](https://github.com/xianrenzhang-wx)
 
 
 ## 目录结构
