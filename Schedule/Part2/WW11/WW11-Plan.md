@@ -10,18 +10,18 @@ Bring Your Laptop and smart phone  to Class.
 
 |时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :--- |   :----:    |   :----:    |    :----:    | ---: |
-|   2  | 深度学习3：[自动微分: Automatic Differential](2AD.pdf)   | 讲课 |  ZY   |  20  min  |
+|   2  | 深度学习3：数值计算、[自动微分: Automatic Differential](2AD.pdf)   | 讲课 |  ZY   |  20  min  |
 
 ## Keras深入
 
 |时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :--- |   :----:    |   :----:    |    :----:    | ---: |
-|   3  | [TensorFlow2-Keras：序列API、函数式API、训练与评估](../WW10/TensorFlow2-Keras-basic.md)   | 讲课 |  CZ   |  60 min   |
+|   3  | [TensorFlow2-Keras：总体、序列API、函数式API、训练与评估](../WW10/TensorFlow2-Keras-basic.md)   | 讲课 |  CZ   |  60 min   |
 
 ##
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
-|    4   | 深度学习4：网络训练   |    讲课     |  CZ   |   20 min     |
+|    4   | 深度学习4：网络架构   |    讲课     |  CZ   |   30 min     |
 
 
 |时间段  |  内容    | 讲课 / 实践     |  分工  |  备注       |
