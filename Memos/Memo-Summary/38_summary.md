@@ -15,3 +15,5 @@
 [第八周总结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/38-Day8.md)
 
 [第九周总结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/38-Day9.md)
+
+[第十周总结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/38-Day10.md)
