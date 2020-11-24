@@ -6,3 +6,5 @@
 - [第六周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/40-Day6.md)
 - [第七周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/40-Day7.md)
 - [第八周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/40-Day8.md)
+- [第九周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/40-Day9.md)
+- [第十周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/40-Day10.md)
