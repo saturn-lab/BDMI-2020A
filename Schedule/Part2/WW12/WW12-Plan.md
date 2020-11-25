@@ -38,7 +38,7 @@ Bring Your Laptop and smart phone  to Class.
 
 |时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   3   | tf.data和加载图片(../WW12/TensorFlow2-cnn-basic.md)   | 讲课 |  ZY   |  20 min   |
+|   3   | [tf.data和加载图片](../WW12/TensorFlow2-tfdata-basic.md)   | 讲课 |  ZY   |  20 min   |
 
 
 ## 循环网络
