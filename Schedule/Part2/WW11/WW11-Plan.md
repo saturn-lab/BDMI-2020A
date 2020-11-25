@@ -29,11 +29,6 @@ Bring Your Laptop and smart phone  to Class.
 |   5  | [TensorFlow2-Keras：顺序模型](../WW10/TensorFlow2-Keras-basic.md)   | 讲课 |  GM   |  20 min   |
 
 
-|时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
-| :--- |   :----:    |   :----:    |    :----:    | ---: |
-|   6  | [TensorFlow2-Keras：保存与加载](../WW10/TensorFlow2-Keras-basic.md)   | 讲课 |  ZY   |  20 min   |
-
-
 |时间段  |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
 |   8   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
