@@ -41,7 +41,7 @@ Bring Your Laptop and smart phone  to Class.
 |时间段  |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
 |   7   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
-|   8   | 课程小结，[展望下节课](../WW12/WW12-Plan.md)  |     |  CZ |   |
+|   8   | 课程小结，[展望下节课](../WW13/WW13-Plan.md)  |     |  CZ |   |
 
 
 
