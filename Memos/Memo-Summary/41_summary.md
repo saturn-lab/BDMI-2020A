@@ -9,7 +9,7 @@
 - [x] [Day 8](../Study-Memo/41-Day8.md)
 - [x] [Day 9](../Study-Memo/41-Day9.md)
 - [x] [Day 10](../Study-Memo/41-Day10.md)
-- [ ] [Day 11](../Study-Memo/41-Day11.md)
+- [x] [Day 11](../Study-Memo/41-Day11.md)
 - [ ] [Day 12](../Study-Memo/41-Day12.md)
 - [ ] [Day 13](../Study-Memo/41-Day13.md)
 - [ ] [Day 14](../Study-Memo/41-Day14.md)
