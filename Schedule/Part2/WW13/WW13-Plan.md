@@ -25,14 +25,23 @@ Bring Your Laptop and smart phone  to Class.
 |   5   | [TensorFlow2-Keras：循环网络](../../../DeepLearning/TensorFlow2-rnn-basic.md)   | 讲课 |  WX   |  20 min   |
 
 
+|时间段 |  内容    |  讲课 / 实践     |  分工  |  备注       |
+| :---  |   :----:    |   :----:    |    :----:    | ---: |
+|   6   | [TensorFlow2-Keras：循环网络应用](../../../DeepLearning/TensorFlow2-rnn-basic.md)   | 讲课 |  all   |  60 min   |
+
+
 ## 循环网络
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
-|   6    | 深度学习4：自动微分   |    讲课     |  ZY   |   30 min     |
+|   7    | 深度学习4：自动微分   |    讲课     |  ZY   |   30 min     |
+
+|时间段 |  内容    |  讲课 / 实践     |  分工  |  备注       |
+| :---  |   :----:    |   :----:    |    :----:    | ---: |
+|   8   | [课程大作业](../../..//Course-Projects/4_Final_Project/BDMI-2020A-大作业-说明.md)   | 大作业 |  all   |  5 min   |
 
 
 |时间段  |  内容    |  讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   7   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
-|   8   | 课程小结，[展望下节课](../WW14/WW14-Plan.md)    |     |  CZ   |       |
+|   9   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
+|   10   | 课程小结，[展望下节课](../WW14/WW14-Plan.md)    |     |  CZ   |       |
 
