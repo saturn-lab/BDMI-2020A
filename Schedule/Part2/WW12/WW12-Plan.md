@@ -10,7 +10,7 @@ Bring Your Laptop and smart phone  to Class.
 
 |时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :--- |   :----:    |   :----:    |    :----:    | ---: |
-|   1  | [TensorFlow2-Keras：保存与加载](../WW10/TensorFlow2-Keras-basic.md)   | 讲课 |  ZY   |  20 min   |
+|   1  | [TensorFlow2-Keras：保存与加载](../../../DeepLearning/TensorFlow2-Keras-basic.md)   | 讲课 |  ZY   |  20 min   |
 
 ## 卷积网络
 
@@ -21,21 +21,21 @@ Bring Your Laptop and smart phone  to Class.
 
 |时间段 |    内容    |   讲课 / 实践     |    分工  |  备注       |
 | :---  |   :---------------:    |   :----------:    |    :----:    | ---: |
-|   3   | [TensorFlow2-卷积网络](../WW12/TensorFlow2-cnn-basic.md)   | 讲课 |  CZ   |  20 min   |
+|   3   | [TensorFlow2-卷积网络](../../../DeepLearning/TensorFlow2-cnn-basic.md)   | 讲课 |  CZ   |  20 min   |
 
 
 |时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   3   | [TensorFlow2-图像分类（Keras基本）](../WW12/TensorFlow2-cnn-basic.md)   | 讲课 |  GM   |  20 min   |
+|   3   | [TensorFlow2-图像分类（Keras基本）](../../../DeepLearning/TensorFlow2-cnn-basic.md)   | 讲课 |  GM   |  20 min   |
 
 
 |时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   3   | [TensorFlow2-图像分类（Keras高级）](../WW12/TensorFlow2-cnn-basic.md)   | 讲课 |  WX   |  20 min   |
+|   3   | [TensorFlow2-图像分类（Keras高级）](../../../DeepLearning/TensorFlow2-cnn-basic.md)   | 讲课 |  WX   |  20 min   |
 
 |时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   3   | [tf.data和加载图片](../WW12/TensorFlow2-tfdata-basic.md)   | 讲课 |  ZY   |  20 min   |
+|   3   | [tf.data和加载图片](../../../DeepLearning/TensorFlow2-basic.md)   | 讲课 |  ZY   |  20 min   |
 
 
 |时间段  |  内容    | 讲课 / 实践     |  分工  |  备注       |
