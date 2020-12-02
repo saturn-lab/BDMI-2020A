@@ -10,7 +10,7 @@
 
 | 时间段 |       内容         | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :------------: | :---------: | :-----: | -----: |
-|    2   | [TensorFlow2基础：计算图、模型、训练流程](../../Part1/WW9/TensorFlow2-basic.md)  |    实践     |  TA   |   45 min x3    |
+|    2   | [TensorFlow2基础：计算图、模型、训练流程](../../../DeepLearning/TensorFlow2-basic.md)  |    实践     |  TA   |   45 min x3    |
 
 
 |时间段  |  内容    | 讲课 / 实践  |  分工  |  备注       |
