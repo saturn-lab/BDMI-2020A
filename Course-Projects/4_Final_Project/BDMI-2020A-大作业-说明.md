@@ -19,7 +19,7 @@ audioPlot项目。项目网页链接： https://github.com/saturn-lab/audioPlot
 
 建议使用tf.data接口，图像集制作参考链接：https://tensorflow.google.cn/tutorials/images/classification
 
-建议使用tf.data接口，图像集加载参考链接：fhttps://tensorflow.google.cn/tutorials/load_data/images
+建议使用tf.data接口，图像集加载参考链接：https://tensorflow.google.cn/tutorials/load_data/images
 
 ## 步骤2：课程大作业
 
@@ -27,4 +27,4 @@ audioPlot项目。项目网页链接： https://github.com/saturn-lab/audioPlot
 
 网络模型参考一下audioNet项目。项目网页链接：https://github.com/saturn-lab/audioNet 
 
-提示：可能需要数据增强来解决过拟合问题，
+提示：可能需要数据增强来解决过拟合问题，参考链接：https://tensorflow.google.cn/tutorials/images/data_augmentation
