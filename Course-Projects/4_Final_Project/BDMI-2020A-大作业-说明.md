@@ -33,10 +33,7 @@
 可能需要数据增强来解决过拟合问题，参考链接：https://tensorflow.google.cn/tutorials/images/data_augmentation
 
 ## 提交实验报告
-
-实验报告1份
-
-实验代码验收
-
-模型识别准确度
+- 实验报告1份
+- 实验代码验收
+- 模型识别准确度
 
