@@ -3,7 +3,9 @@
 内容描述：语音识别实验和图像识别
 （个人为单位，或两人组，需注明分工）
 
-audioPlot项目。项目网页链接： https://github.com/saturn-lab/audioPlot
+语音数据集，网页链接：https://cloud.tsinghua.edu.cn/f/601fa559fe02477c8f44/
+
+频谱图生成audioPlot项目。项目网页链接： https://github.com/saturn-lab/audioPlot
 
 ## 步骤1：制作数据集
 
@@ -13,9 +15,7 @@ audioPlot项目。项目网页链接： https://github.com/saturn-lab/audioPlot
 
 请同学们创建一个数据集。
 
-提示：
-
-语音数据集，网页链接：https://cloud.tsinghua.edu.cn/f/601fa559fe02477c8f44/
+*提示：
 
 建议使用tf.data接口，图像集制作参考链接：https://tensorflow.google.cn/tutorials/images/classification
 
@@ -27,4 +27,6 @@ audioPlot项目。项目网页链接： https://github.com/saturn-lab/audioPlot
 
 网络模型参考一下audioNet项目。项目网页链接：https://github.com/saturn-lab/audioNet 
 
-提示：可能需要数据增强来解决过拟合问题，参考链接：https://tensorflow.google.cn/tutorials/images/data_augmentation
+*提示：
+
+可能需要数据增强来解决过拟合问题，参考链接：https://tensorflow.google.cn/tutorials/images/data_augmentation
