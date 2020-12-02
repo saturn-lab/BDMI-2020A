@@ -49,13 +49,17 @@ http://wiki.icenter.tsinghua.edu.cn/icenterwiki/index.php/AI云
 - 微积分，线性代数，概率论基础
 - 上课需要自带笔记本电脑
 
-
-## 课程相关问题和建议
-
-课程相关问题和建议请在该仓库的Issues下面提出，有老师和助教进行解答。
-
 ## 
 
 This course is targeted to general education in a sense, and appropriate for students with lit programming skills with one language.
 
 I would be very grateful if you post your feedback as an issue or pull request in this GitHub.
+
+
+## 课程相关问题和建议
+
+课程相关问题和建议请在该仓库的Issues下面提出，有老师和助教进行解答。
+
+# 致谢
+
+感谢[腾讯云钛机器学习平台](https://cloud.tencent.com/product/ti)提供的算力支持。
