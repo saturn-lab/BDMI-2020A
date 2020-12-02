@@ -29,11 +29,10 @@ TAs: [Yu Zheng](https://github.com/DavyMorgan), [Xu Wang](https://github.com/xia
 - - [Study-Memo](Study-Memo)/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
 - - [Memo-Summary](Memo-Summary)/ 同学们的课程小结-汇总提纲
 
-### 语言环境要求：
-- Git(Github), Markdown
+### 程序语言学习：
 - Python3, Jupyter Notebook (Visual Studio Code)
-- SQL
-- Tensorflow
+- SQL, DBeaver
+- TensorFlow
 
 
 ## 申请使用GPU
@@ -44,17 +43,13 @@ http://wiki.icenter.tsinghua.edu.cn/icenterwiki/index.php/AI云
 ## 要求：
 
 ## 课程要求：
-
 - 一门程序语言基础
 - 微积分，线性代数，概率论基础
 - 上课需要自带笔记本电脑
 
-## 
-
-This course is targeted to general education in a sense, and appropriate for students with lit programming skills with one language.
-
-I would be very grateful if you post your feedback as an issue or pull request in this GitHub.
-
+## 工具使用
+- Git(Github), 
+- Markdown (Typora)
 
 ## 课程相关问题和建议
 
@@ -63,3 +58,11 @@ I would be very grateful if you post your feedback as an issue or pull request i
 # 致谢
 
 感谢[腾讯云钛机器学习平台](https://cloud.tencent.com/product/ti)提供的算力支持。
+
+
+## Note
+
+This course is targeted to general education in a sense, and appropriate for students with lit programming skills with one language.
+
+We would be very grateful if you post your feedback as an issue or pull request in this GitHub.
+
