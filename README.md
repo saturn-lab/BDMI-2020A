@@ -18,8 +18,8 @@ TAs: [Yu Zheng](https://github.com/DavyMorgan), [Xu Wang](https://github.com/xia
 - [Course-Projects](Course-Projects)/ 课程实践任务
 - [Readings](Readings)/ 课程课外阅读的论文材料
 - [Memos](Memos)
-- - [Study-Memo](Study-Memo)/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
-- - [Memo-Summary](Memo-Summary)/ 同学们的课程小结-汇总提纲
+- - [Study-Memo](Study-Memo)/ 课程小结
+- - [Memo-Summary](Memo-Summary)/ 课程小结-汇总提纲
 
 ## 程序语言学习：
 - Python3, Jupyter Notebook (Visual Studio Code)
@@ -37,7 +37,7 @@ TAs: [Yu Zheng](https://github.com/DavyMorgan), [Xu Wang](https://github.com/xia
 - Markdown (Typora)
 
 ## 课程相关问题和建议
-课程相关问题和建议请在该仓库的Issues下面提出，有老师和助教进行解答。
+课程相关问题和建议可在该仓库的Issues下面提出，教师和助教会进行回应解答。
 
 # 致谢
 感谢[腾讯云钛机器学习平台](https://cloud.tencent.com/product/ti)提供的算力支持。
