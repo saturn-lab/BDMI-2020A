@@ -10,7 +10,7 @@ Bring Your Laptop and smart phone  to Class.
 |   3   | 计算机视觉演示，OpenCV   |  讲课    |   WHY      |   10 min      |
 |   4   | 对象检测1: Visual Task and Index | 讲课   |  CZ | 15 min |
 |   5   | 对象检测2: CV-OD算法 | 讲课   |  CZ |  30 min  |
-|   6   |  结课      |  [讲课](Conclusion.md) |    CZ&TAs  |  20-30 min   |
+|   6   |  [结课](Conclusion.md)       |  讲课 |    CZ&TAs  |  20-30 min   |
 
 
 
