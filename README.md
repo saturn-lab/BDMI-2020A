@@ -42,7 +42,7 @@ TAs: [Yu Zheng](https://github.com/DavyMorgan), [Xu Wang](https://github.com/xia
 # 致谢
 感谢[腾讯云钛机器学习平台](https://cloud.tencent.com/product/ti)提供的算力支持。
 
-# Note
+# Notice
 This course is targeted to general education in a sense, and appropriate for students with lit programming skills with one language.
 
 We would be very grateful if you post your feedback as an issue or pull request in this GitHub.
