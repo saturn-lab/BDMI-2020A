@@ -16,11 +16,13 @@ TAs: [Yu Zheng](https://github.com/DavyMorgan), [Xu Wang](https://github.com/xia
 
 ## 目录结构
 
-- [Computing](Computing)/ Python-算法-数据管理-机器学习材料 
+- [Computing](Computing)/ Python-算法-机器学习材料 
 - [Logistics](Logistics)/ 签到与团队建设
-- [Schedule](Schedule)
-- - [Part1](Schedule/Part1)/WWn/  前9周教学安排
-- - [Part2](Schedule/Part2)/WWn/ 后9周教学安排，第n次课的课件和参考代码
+- [DataSystem](DataSystem)/ 数据系统-数据管理与SQL
+- [DeepLearning](DeepLearning)/ 深度学习-机器智能与TensorFlow
+- [Schedule](Schedule) 教学安排
+- - [Part1](Schedule/Part1)/WWn/  WW1-WW9，前9周教学安排
+- - [Part2](Schedule/Part2)/WWn/ WW10-WW15，后9周教学安排
 - [Course-Projects](Course-Projects)/ 课程实践任务
 - [Readings](Readings)/ 课程课外阅读的论文材料
 - [Memos](Memos)
@@ -28,10 +30,10 @@ TAs: [Yu Zheng](https://github.com/DavyMorgan), [Xu Wang](https://github.com/xia
 - - [Memo-Summary](Memo-Summary)/ 同学们的课程小结-汇总提纲
 
 ### 语言环境要求：
-
-- Python3, Jupyter Notebook (Visual Studio Code)
 - Git(Github), Markdown
-- SQL, Tensorflow
+- Python3, Jupyter Notebook (Visual Studio Code)
+- SQL
+- Tensorflow
 
 
 ## 申请使用GPU
