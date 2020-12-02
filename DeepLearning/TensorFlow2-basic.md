@@ -6,8 +6,8 @@
 
 | 时间段 |      内容      |  讲课 / 实践 | 分工  | 备注 |
 | :----- | :------------: | :---------: | :-----: | :----- |
-|    1   |  张量  |  讲课，实践    |    WX    |   TensorFlow张量：https://tensorflow.google.cn/guide/tensor    |
-|    2   |  变量  |    实践     |  GM   |  TensorFlow变量：https://tensorflow.google.cn/guide/variable     |
+|    1   |  张量  |  讲课，实践    |    WX    |   张量：https://tensorflow.google.cn/guide/tensor    |
+|    2   |  变量  |    实践     |  GM   |  变量：https://tensorflow.google.cn/guide/variable     |
 |    3   |  自动微分    |    实践     |  ZY   |  自动微分：https://tensorflow.google.cn/guide/autodiff     |
 |    4   |  即刻执行   |    实践     |  CZ   |  即刻执行： https://tensorflow.google.cn/guide/eager   |
 
