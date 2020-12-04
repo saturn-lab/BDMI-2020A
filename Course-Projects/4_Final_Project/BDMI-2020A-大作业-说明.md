@@ -2,15 +2,13 @@
 
 内容描述：语音识别实验和图像识别
 
-语音数据集，网页链接：https://cloud.tsinghua.edu.cn/f/601fa559fe02477c8f44/
-
-频谱图生成audioPlot项目。项目网页链接： https://github.com/saturn-lab/audioPlot
-
 ## 步骤1：制作数据集
 
 24句语音指令的语音频谱数据集(spectrogram)，语音数据集中包括：
 
-40个人的人声语料数据集，20个人的人声验证数据集。
+40个人的人声语料数据集，20个人的人声验证数据集。 
+
+频谱图数据集：https://cloud.tsinghua.edu.cn/f/db9d627e4b5d4978973f/
 
 请同学们创建一个数据集。
 
@@ -39,3 +37,8 @@
 
 （特殊情况，可以申请两人一组，需注明分工）
 
+## 补充说明
+
+原始语音数据集，网页链接：https://cloud.tsinghua.edu.cn/f/601fa559fe02477c8f44/
+
+频谱图生成audioPlot项目。项目网页链接： https://github.com/saturn-lab/audioPlot
