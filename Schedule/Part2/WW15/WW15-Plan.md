@@ -10,7 +10,7 @@ Bring Your Laptop and smart phone  to Class.
 | :------- |:----------------------|:----------:|:--------:|---:|
 |   1   |  课程签到     |  logistics   |     TAs     |        |
 |   2   | 计算机视觉CV  |  讲课    |    CZ    |    20 min     |
-|   3   | 计算机视觉库OpenCV   |  讲课    |   WHY      |   10 min      |
+|   3   | 计算机视觉库OpenCV   |  讲课    |   CZ      |   10 min      |
 |   4   | 对象检测1: Visual Task and Index | 讲课   |  CZ | 15 min |
 |   5   | 对象检测2: CV-OD算法 | 讲课   |  CZ |  30 min  |
 
