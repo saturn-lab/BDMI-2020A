@@ -17,3 +17,7 @@
 - [第九周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/27-Day9.md)
 
 - [第十周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/27-Day10.md)
+
+- [第十一周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/27-Day11.md)
+
+- [第十二周小节](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/27-Day12.md)
