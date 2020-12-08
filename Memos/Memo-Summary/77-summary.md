@@ -28,5 +28,3 @@
 
 [第十五次小结](../Study-Memo/77-Day15.md)
 
-[第十六次小结](../Study-Memo/77-Day16.md)
-
