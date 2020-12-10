@@ -48,3 +48,7 @@
 原始语音数据集，网页链接：https://cloud.tsinghua.edu.cn/f/601fa559fe02477c8f44/
 
 频谱图生成audioPlot项目。项目网页链接： https://github.com/saturn-lab/audioPlot
+
+# 替代性作业
+
+
