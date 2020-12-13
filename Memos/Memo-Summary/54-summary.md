@@ -22,3 +22,5 @@
   [第十一周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/54-Day11.md) 
 
   [第十二周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/54-Day12.md) 
+
+  [第十三周小结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/54-Day13.md) 
