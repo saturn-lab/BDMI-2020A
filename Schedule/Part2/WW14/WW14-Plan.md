@@ -17,8 +17,8 @@ Bring Your Laptop and smart phone  to Class.
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
-|   4    | [audioPlot](https://github.com/saturn-lab/audioPlot), [audioNet](https://github.com/saturn-lab/audioNet) 演示 |    讲课     |    WX    | 20 min             |
-|   5    | [androidAudioRecg](https://github.com/saturn-lab/androidAudioRecg) 演示 |    讲课     |     CZ     | 20 min             |
+|   4    | [audioPlot](https://github.com/saturn-lab/audioPlot), [audioNet](https://github.com/saturn-lab/audioNet) 介绍 |    讲课     |    WX    | 20 min             |
+|   5    | [androidAudioRecg](https://github.com/saturn-lab/androidAudioRecg) 介绍 |    讲课     |     CZ     | 20 min             |
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
