@@ -18,23 +18,30 @@ Bring Your Laptop and smart phone  to Class.
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
 |   3    | 循环网络：CTC/语音识别       |    讲课     |    CZ    |        |
 
+
 ## =辅导大作业=
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
-|   4    | 声控智能实践介绍（大作业背景） |    讲课     |    WX    | 20 min             |
-|   4    | [audioPlot](https://github.com/saturn-lab/audioPlot), [audioNet](https://github.com/saturn-lab/audioNet) 介绍 |    讲课     |    WX    | 20 min             |
-|   4    | [androidAudioRecg](https://github.com/saturn-lab/androidAudioRecg) 介绍 |    讲课     |     CZ     | 20 min             |
-
+|   4    | 声控智能实践介绍 |    讲课     |    ZY    | 20 min             |
+|   4    | [audioPlot](https://github.com/saturn-lab/audioPlot), [audioNet](https://github.com/saturn-lab/audioNet) 介绍 |    讲课     |    ZY    | 20 min             |
+|   4    | [androidAudioRecg](https://github.com/saturn-lab/androidAudioRecg) 介绍 |    讲课     |     ZY     | 20 min             |
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
-|   5    |  [TensorFlow2-Keras：循环网络](../../../DeepLearning/TensorFlow2-rnn-basic.md)   | 讲课 |  WX   |  20 min   |       |    讲课     |    CZ    |        |
+|   4    |（大作业背景）答疑  |    讲课     |    TAs    | 20 min             |
 
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
 |   6    |    启用github.io            |    实践     |    ZY    |      [GitHub Pages](https://pages.github.com/)      |
+
+## =可选=
+
+| 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
+| :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
+|   5    |  [TensorFlow2-Keras：循环网络](../../../DeepLearning/TensorFlow2-rnn-basic.md)   | 讲课 |  WX   |  20 min   |       |    讲课     |    CZ    |        |
+
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
