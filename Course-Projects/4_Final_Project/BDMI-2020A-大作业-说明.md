@@ -4,7 +4,7 @@
 
 截止日期：2021/1/10（暂定）
 
-## 步骤1：制作数据集
+##  数据集 
 
 24句语音指令的语音频谱数据集(spectrogram)，语音数据集中包括：
 
@@ -12,44 +12,44 @@
 
 频谱图数据集：https://cloud.tsinghua.edu.cn/f/db9d627e4b5d4978973f/
 
-请同学们创建一个数据集。
+请同学们拷贝这个数据集即可。
 
-*提示：
-
-建议使用tf.data接口，图像集制作参考链接：https://tensorflow.google.cn/tutorials/images/classification
-
-建议使用tf.data接口，图像集加载参考链接：https://tensorflow.google.cn/tutorials/load_data/images
-
-## 步骤2：课程大作业
+## 课程大作业的内容
 
 在输出频谱图基础上，进行resize标准大小，通过卷积与循环网络得出预测结果。 
 
 网络模型参考一下audioNet项目。项目网页链接：https://github.com/saturn-lab/audioNet 
 
-*提示：
+*提示：分类过程的几种参考方案
+
+（1）建议，分类过程参考链接：https://tensorflow.google.cn/tutorials/images/classification （较方便，推荐）
+
+（2）分类过程参考链接：https://tensorflow.google.cn/tutorials/load_data/images  （你还掌握了制作tf.data数据集过程）
 
 可能需要数据增强来解决过拟合问题，参考链接：https://tensorflow.google.cn/tutorials/images/data_augmentation
+
 
 ## 提交实验报告
 包括：
 - 实验代码验收 (notebook, )
 - 模型识别准确度 （训练准确度）
 - 给定一个测试集（提交识别结果）
-- 实验报告 1 份（创新和工作内容）
+- 实验报告 1 份（列出你的创新点和工作内容）
 
-
+## 组织方式
 （原则上以个人为单位）
 
 （特殊情况，可以申请两人一组，需注明分工）
-
-
-# 替代性作业
-与教师协商。
 
 ## 评分标准
 每位同学找相应老师验收，验收主要看代码运行和训练过程。验收完的，得合格；
 
 实验报告和模型准确度，得加分。
+
+
+
+# 替代性作业
+与教师协商。
 
 
 
