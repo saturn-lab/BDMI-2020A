@@ -22,7 +22,7 @@
 
 （1）建议，分类过程参考链接：https://tensorflow.google.cn/tutorials/images/classification （较方便，推荐）
 
-（2）分类过程参考链接：https://tensorflow.google.cn/tutorials/load_data/images  （你还掌握了制作tf.data数据集过程）
+（2）分类过程，也可以参考链接：https://tensorflow.google.cn/tutorials/load_data/images  （你还掌握了制作tf.data数据集过程）
 
 可能需要数据增强来解决过拟合问题，参考链接：https://tensorflow.google.cn/tutorials/images/data_augmentation
 
