@@ -20,12 +20,12 @@
 
 分类过程的几种参考方案
 
-（1）建议，分类过程参考链接：https://tensorflow.google.cn/tutorials/images/classification （较方便，推荐）
+（1）建议，分类过程参考链接：https://tensorflow.google.cn/tutorials/images/classification （较方便，推荐。）
 
-（2）分类过程，也可以参考链接：https://tensorflow.google.cn/tutorials/load_data/images  （你还掌握了制作tf.data数据集过程）
+（2）分类过程，也可以参考链接：https://tensorflow.google.cn/tutorials/load_data/images  （你还掌握了制作tf.data数据集过程。）
 
-（3）分类过程，也可以参考链接：谷歌simpleAudio项目。项目网页链接：https://tensorflow.google.cn/tutorials/audio/simple_audio
-（谷歌TensorFlow官方提供了一个详细从语音*.wav到时频图，再进行分类的案例，供大家参考）
+（3）分类过程，也可以参考链接：谷歌simpleAudio项目链接：https://tensorflow.google.cn/tutorials/audio/simple_audio
+（谷歌TensorFlow官方提供了一个详细从语音文件（*.wav）到时频图，再进行分类的案例。）（你还掌握了从波形文件到时频谱图的制作过程。）
 
 *提示：
 
@@ -53,7 +53,6 @@
 
 # 替代性作业
 与教师协商。
-
 
 
 # 补充说明
