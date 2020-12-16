@@ -18,8 +18,6 @@
 
 在输出频谱图基础上，进行resize标准大小，通过卷积与循环网络得出预测结果。 
 
-网络模型参考一下audioNet项目。项目网页链接：https://github.com/saturn-lab/audioNet 
-
 *提示：分类过程的几种参考方案
 
 （1）建议，分类过程参考链接：https://tensorflow.google.cn/tutorials/images/classification （较方便，推荐）
@@ -28,6 +26,10 @@
 
 可能需要数据增强来解决过拟合问题，参考链接：https://tensorflow.google.cn/tutorials/images/data_augmentation
 
+网络模型参考一下audioNet项目。项目网页链接：https://github.com/saturn-lab/audioNet 
+
+网络模型参考一下谷歌simpleAudio项目。项目网页链接：https://tensorflow.google.cn/tutorials/audio/simple_audio
+（谷歌TensorFlow官方提供了一个详细从语音*.wav到时频图，再进行分类的案例，供大家参考）
 
 ## 提交实验报告
 包括：
@@ -45,7 +47,6 @@
 每位同学找相应老师验收，验收主要看代码运行和训练过程。验收完的，得合格；
 
 实验报告和模型准确度，得加分。
-
 
 
 # 替代性作业
