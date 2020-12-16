@@ -26,4 +26,4 @@ Bring Your Laptop and smart phone  to Class.
 
 | 时间段 |  内容  | 讲课 / 实践 |  分工  |  备注  |
 | :------- |:----------------------|:----------:|:--------:|---:|
-|   6   | 大作业辅导   |  讲课 |    CZ&TAs  |  45 min   |
+|   6   | [课程大作业](../../..//Course-Projects/4_Final_Project/BDMI-2020A-大作业-说明.md)辅导   |  讲课 |    CZ&TAs  |  45 min   |
