@@ -16,16 +16,16 @@
 
 ## 课程大作业的内容
 
-在输出频谱图数据集上，通过卷积与循环网络得出预测结果。 
+在输出频谱图数据集上，通过设计深度神经网络模型，得出预测结果。 
 
 分类过程的几种参考方案
 
 （1）建议，分类过程参考链接：https://tensorflow.google.cn/tutorials/images/classification （较方便，推荐。）
 
-（2）分类过程，也可以参考链接：https://tensorflow.google.cn/tutorials/load_data/images  （你还掌握了制作tf.data数据集过程。）
+（2）分类过程，也可以参考链接：https://tensorflow.google.cn/tutorials/load_data/images  （你还掌握了制作tf.data数据集过程！）
 
-（3）分类过程，也可以参考链接：谷歌simpleAudio项目链接：https://tensorflow.google.cn/tutorials/audio/simple_audio
-（谷歌TensorFlow官方提供了一个详细从语音文件（*.wav）到时频图，再进行分类的案例。）（你还掌握了从波形文件到时频谱图的制作过程。）
+（3）分类过程，也可以参考（谷歌simpleAudio）项目链接：https://tensorflow.google.cn/tutorials/audio/simple_audio
+（谷歌TensorFlow官方提供的一个详细从语音文件（*.wav）到时频图（spectrogram），再进行分类的案例。）（你还掌握了从波形文件到时频谱图的制作过程！）
 
 *提示：
 
