@@ -23,3 +23,5 @@
 [第十二周总结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/38-Day12.md)
 
 [第十三周总结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/38-Day13.md)
+
+[第十四周总结](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/38-Day14.md)
