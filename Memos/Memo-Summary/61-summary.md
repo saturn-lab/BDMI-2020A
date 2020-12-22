@@ -1,4 +1,4 @@
-[课堂代码合集](https://github.com/huangb19/BDMI_huangb/blob/master/BDMI.ipynb)
+[课堂代码合集（个人及上课）](https://github.com/huangb19/BDMI_huangb)
 
 [第1周小结](../Study-Memo/61-Day1.md)
 
