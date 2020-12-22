@@ -18,4 +18,4 @@
 
 [Day10](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/63-Day10.md)
 
-[Day11](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/62-Day11.md)
+[Day11](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/63-Day11.md)
