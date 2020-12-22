@@ -23,3 +23,7 @@
 [Day12](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/74-Day12.md)    [link to code](https://github.com/HaoyuanHe0606/Big-Data-Homework/blob/master/Day12.ipynb)
 
 [Day13](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/74-Day13.md)    [link to code](https://github.com/HaoyuanHe0606/Big-Data-Homework/blob/master/Day13.ipynb)
+
+[Day14](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/74-Day14.md)    
+
+[Day15](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/74-Day15.md)    
