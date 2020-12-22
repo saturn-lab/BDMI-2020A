@@ -24,8 +24,6 @@
 
 [36-Day13](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/36-Day13.md)
 
-36-Day14
+[36-Day14](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/36-Day14.md)
 
 36-Day15
-
-36-Day16
