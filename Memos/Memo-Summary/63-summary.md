@@ -26,4 +26,4 @@
 
 [Day14](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/63-Day14.md)
 
-[Day15]()
+[Day15](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/63-Day15.md)
