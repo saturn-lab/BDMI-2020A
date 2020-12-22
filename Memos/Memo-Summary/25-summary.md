@@ -1,6 +1,6 @@
 ### 25-summary
 
-- [week1]  (https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/25-Day1.md)
+- [week1](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/25-Day1.md)
 - [week2] (https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/25-Day2.md)
 - [week3] (https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/25-Day3.md)
 - [week4] (https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/25-Day4.md)
