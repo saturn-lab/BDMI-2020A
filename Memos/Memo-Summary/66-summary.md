@@ -10,3 +10,5 @@
 - [第10周小结](../Study-Memo/66-Day10.md)
 - [第11周小结](../Study-Memo/66-Day11.md)
 - [第12周小结](../Study-Memo/66-Day12.md)
+- [第13周小结](../Study-Memo/66-Day13.md)
+- [第14周小结](../Study-Memo/66-Day14.md)

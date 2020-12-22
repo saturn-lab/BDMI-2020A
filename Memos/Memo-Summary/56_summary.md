@@ -11,4 +11,7 @@
 - [第九周小结](../Study-Memo/56-Day9.md)
 - [第十周小结](../Study-Memo/56-Day10.md)
 - [第十一周小结](../Study-Memo/56-Day11.md)
+- [第十二周小结](../Study-Memo/56-Day12.md)
+- [第十三周小结](../Study-Memo/56-Day13.md)
+- [第十四周小结](../Study-Memo/56-Day14.md)
 

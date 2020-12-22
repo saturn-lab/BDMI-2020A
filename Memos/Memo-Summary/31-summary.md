@@ -10,3 +10,5 @@
 -[第10周小结](../Study-Memo/31-Day10.md)
 -[第11周小结](../Study-Memo/31-Day11.md)
 -[第12周小结](../Study-Memo/31-Day12.md)
+-[第13周小结](../Study-Memo/31-Day13.md)
+-[第14周小结](../Study-Memo/31-Day14.md)

@@ -11,4 +11,5 @@
 - [第10周小结](../Study-Memo/51-Day10.md)-- 代码连接 https://github.com/jinyin-z19/repo/tree/master/10th_pro
 - [第11周小结](../Study-Memo/51-Day11.md)-- 代码连接 https://github.com/jinyin-z19/repo/tree/master/11th_pro 
 - [第12周小结](../Study-Memo/51-Day12.md)-- 代码连接 https://github.com/jinyin-z19/repo/tree/master/12th_pro 
-- [第16周小结](../Study-Memo/51-Day16.md)
+- [第13周小结](../Study-Memo/51-Day13.md)
+- [第14周小结](../Study-Memo/51-Day14.md)
