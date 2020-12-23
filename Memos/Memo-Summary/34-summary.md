@@ -30,4 +30,3 @@
 
 - ### [week 15](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/34-Day15.md)
 
-- ### [week 16](https://github.com/saturn-lab/BDMI-2020A/blob/master/Memos/Study-Memo/34-Day16.md)
