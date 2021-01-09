@@ -1,0 +1,15 @@
+## numpy基本运算学习
+
+- 矩阵点乘需使用numpy.dot而非*
+
+
+
+## 深度学习入门
+
+· 人工神经元
+· sigmod函数
+· tanh函数
+· ReLU函数
+· Logistic UNIT
+· 使用Logistic函数实现AND/OR/NOT等bool函数运算
+
