@@ -14,4 +14,3 @@
 - [第十三周小结](../Study-Memo/64-Day13.md)
 - [第十四周小结](../Study-Memo/64-Day14.md)
 - [第十五周小结](../Study-Memo/64-Day15.md)
-- [第十六周小结](../Study-Memo/64-Day16.md)
