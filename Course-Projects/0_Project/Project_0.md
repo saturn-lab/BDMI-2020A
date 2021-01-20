@@ -1,5 +1,5 @@
 ## action1
-write your self-intro ``name-ID.md``, upload to diectory ``About_Us``
+write your self-intro ``name-ID.md``, upload to directory ``MD-Git``
 
 
 ## action2

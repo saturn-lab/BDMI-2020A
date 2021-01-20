@@ -15,5 +15,5 @@
 | 70 | [谢禹川](./Markdown-Git/70.md) |元培|骑行|
 | 40 | [李新宇](./Markdown-Git/40.md) |经管学院|打网球|
 | 31 | [朱江彤](./Markdown-Git/31.md) |车辆学院|打篮球|
->>>>>>> 56f0dc22ed98e1a5c7631e235560b2f6faddad17
+
 
